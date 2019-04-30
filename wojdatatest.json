@@ -34,6 +34,43 @@
       ]
     },
     {
+      "name": "Finance",
+      "children": [
+        {"name": "Accounting", "size": 1398},
+        {
+          "name": "Banking",
+          "children": [
+            {"name": "Collector", "size": 306},
+            {"name": "Loan Clerk", "size": 230},
+            {"name": "Loan Officer", "size": 319},
+            {"name": "Teller", "size": 503}
+          ]
+        },
+        {
+          "name": "Corp Finance",
+          "children": [
+            {"name": "Analyst", "size": 296},
+            {"name": "Manager", "size": 580}
+          ]
+        },
+        {
+          "name": "Insurance",
+          "children": [
+            {"name": "Claims Examiner", "size": 311},
+            {"name": "Claims Clerk", "size": 309},
+            {"name": "Sales Agent", "size": 501}
+          ]
+        },
+        {
+          "name": "Securities",
+          "children": [
+            {"name": "Financial Advisor", "size": 272},
+            {"name": "Sales Agent", "size": 376}
+          ]
+        }
+      ]
+    },
+    {
       "name": "Business Mgmt",
       "children": [
         {"name": "Info Systems", "size": 368},
