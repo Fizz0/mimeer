@@ -2,14 +2,19 @@
   "name": "World of Jobs",
   "children": [
     {
-      "name": "analytics",
+      "name": "Architecture",
       "children": [
         {
-          "name": "cluster",
+          "name": "Construction",
           "children": [
-            {"name": "AgglomerativeCluster", "size": 3938},
-            {"name": "CommunityStructure", "size": 3812},
-            {"name": "MergeEdge", "size": 743}
+            {"name": "Carpenters", "size": 1026},
+            {"name": "Laborer", "size": 1217},
+            {"name": "Manager", "size": 404},
+            {"name": "Electrician", "size": 667},
+            {"name": "Supervisor", "size": 603},
+            {"name": "Operator", "size": 371},
+            {"name": "Painter", "size": 382},
+            {"name": "Plumber", "size": 481}
           ]
         },
         {
