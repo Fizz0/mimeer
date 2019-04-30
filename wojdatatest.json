@@ -200,7 +200,7 @@
       "name": "Arts",
       "children": [
         {"name": "Telecomm Installer", "size": 238},
-        {"name": "Graphic Designer", "size": 266},
+        {"name": "Graphic Designer", "size": 266}
       ]
     },
     {
@@ -232,7 +232,7 @@
             {"name": "Dental Assistant", "size": 332},
             {"name": "Pharmacist", "size": 313},
             {"name": "Physical Therpaist", "size": 240},
-            {"name": "Dental Hygienist", "size": 208},
+            {"name": "Dental Hygienist", "size": 208}
           ]
         }
       ]
