@@ -34,6 +34,60 @@
       ]
     },
     {
+      "name": "Marketing",
+      "children": [
+        {"name": "PR Specialist", "size": 260},
+        {"name": "Research Specialist", "size": 595},
+        {
+          "name": "Marketing Mgmt",
+          "children": [
+            {"name": "Marketing Mgr", "size": 218},
+            {"name": "Real Estate Mgr", "size": 317},
+            {"name": "Sales Mgr", "size": 386}
+          ]
+        },
+        {
+          "name": "Sales",
+          "children": [
+            {"name": "Cashier", "size": 3556},
+            {"name": "Clerk", "size": 458},
+            {"name": "Driver/Sales", "size": 468},
+            {"name": "Non-Retail Sales Supervisor", "size": 405},
+            {"name": "Retail Sales Supervisor", "size": 1532},
+            {"name": "Parts Sales", "size": 252},
+            {"name": "Real Estate Agent", "size": 349},
+            {"name": "Retail Salesperson", "size": 4603},
+            {"name": "Service Sales Rep", "size": 983},
+            {"name": "Technical Sales Rep", "size": 344},
+            {"name": "NonTechnical Sales Rep", "size": 1470},
+            {"name": "Telemarketer", "size": 217}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "children": [
+        {"name": "Network Admin", "size": 391},
+        {
+          "name": "Info Support",
+          "children": [
+            {"name": "User Support", "size": 637},
+            {"name": "Other Support", "size": 287}
+          ]
+        },
+        {
+          "name": "Programming",
+          "children": [
+            {"name": "Programmer", "size": 295},
+            {"name": "Systems Analyst", "size": 601},
+            {"name": "App Developer", "size": 831},
+            {"name": "Systems Developer", "size": 425}
+          ]
+        }
+      ]
+    },
+    {
       "name": "Finance",
       "children": [
         {"name": "Accounting", "size": 1398},
@@ -105,13 +159,6 @@
             {"name": "Service Manager", "size": 309},
             {"name": "Host", "size": 409},
             {"name": "Waiter", "size": 2601}
-          ]
-        },
-        {
-          "name": "Securities",
-          "children": [
-            {"name": "Financial Advisor", "size": 272},
-            {"name": "Sales Agent", "size": 376}
           ]
         }
       ]
