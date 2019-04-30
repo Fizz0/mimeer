@@ -88,6 +88,93 @@
       ]
     },
     {
+      "name": "Manufacturing",
+      "children": [
+        {"name": "Purchasing Agent", "size": 309},
+        {
+          "name": "Maintenance",
+          "children": [
+            {"name": "Mechanic Supervisor", "size": 462},
+            {"name": "Maintenance Worker", "size": 1433},
+            {"name": "Industrial Mechanic", "size": 347}
+          ]
+        },
+        {
+          "name": "Production",
+          "children": [
+            {"name": "Team Assembler", "size": 1131},
+            {"name": "Production Supervisor", "size": 621},
+            {"name": "Production Helper", "size": 426},
+            {"name": "Welder", "size": 405},
+            {"name": "Machinist", "size": 396},
+            {"name": "Packing Operator", "size": 383},
+            {"name": "Production Worker Other", "size": 264},
+            {"name": "Assembler Other", "size": 232},
+            {"name": "Eletrical Assembler", "size": 219}
+          ]
+        },
+        {
+          "name": "QA",
+          "children": [
+            {"name": "Inspector/Tester", "size": 521},
+            {"name": "Production Clerk", "size": 329}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Human Services",
+      "children": [
+        {"name": "Childcare Worker", "size": 1217},
+        {
+          "name": "Family Svcs",
+          "children": [
+            {"name": "Social Svc Assistant", "size": 390},
+            {"name": "Social Worker", "size": 318},
+            {"name": "Clergy", "size": 244}
+          ]
+        },
+        {
+          "name": "Personal Care",
+          "children": [
+            {"name": "Personal Aid", "size": 2016},
+            {"name": "Hairstylist", "size": 617},
+            {"name": "Fitness Trainer", "size": 299},
+            {"name": "Svc Worker Supervisor", "size": 276},
+            {"name": "Laundry Worker", "size": 220}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Logistics",
+      "children": [
+        {"name": "Dispatcher (NonEmergency)", "size": 202},
+        {"name": "Billing Clerk", "size": 501},
+        {
+          "name": "Facilities",
+          "children": [
+            {"name": "Auto Mechanic", "size": 750},
+            {"name": "Auto Detailer", "size": 369},
+            {"name": "Diesel Specialist", "size": 279}
+          ]
+        },
+        {
+          "name": "Transport Ops",
+          "children": [
+            {"name": "Stock Laborer", "size": 2628},
+            {"name": "Heavy Truck Driver", "size": 1872},
+            {"name": "Light Truck Driver", "size": 954},
+            {"name": "Package Handler", "size": 711},
+            {"name": "Industrial Truck Operator", "size": 550},
+            {"name": "Bus Driver", "size": 508},
+            {"name": "Taxi Driver", "size": 305},
+            {"name": "Transport Supervisor", "size": 204}
+          ]
+        }
+      ]
+    },
+    {
       "name": "Finance",
       "children": [
         {"name": "Accounting", "size": 1398},
