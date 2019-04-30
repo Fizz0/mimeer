@@ -4,12 +4,8 @@
   {
    "name": "Agriculture",
    "children": [
-    {
-     "name": "Agribusiness",
-     "children": [
-      {"name": "Farm Manager", "size": 1029},
-      ]
-    },
+    {"name": "Farm Manager", "size": 1029},
+    {"name": "Plant Farmworker", "size": 504},
     {
      "name": "Animal Systems",
      "children": [
@@ -17,12 +13,6 @@
       {"name": "Nonfarm Caretaker", "size": 242}
      ]
     },
-    {
-     "name": "Plants",
-     "children": [
-      {"name": "Farmworkers", "size": 504}
-     ]
-    }
    ]
   },
   {
@@ -54,7 +44,8 @@
       {"name": "HVAC Mechanic", "size": 333},
       {"name": "Groundskeeping", "size": 1198}
      ]
-    }
+    },
+    {"name": "Visualization", "size": 16540}
     ]
   }
   ]
