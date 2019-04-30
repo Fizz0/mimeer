@@ -175,6 +175,88 @@
       ]
     },
     {
+      "name": "Education",
+      "children": [
+        {"name": "Admin Support", "size": 251},
+        {"name": "Counselor", "size": 292},
+        {
+          "name": "Teaching",
+          "children": [
+            {"name": "Elementary Teacher", "size": 1411},
+            {"name": "Teacher Assistant", "size": 1308},
+            {"name": "Secondary School Teacher", "size": 1019},
+            {"name": "Other Teachers", "size": 994},
+            {"name": "Middle School Teacher", "size": 630},
+            {"name": "Preschool Teacher", "size": 479},
+            {"name": "Self-Enrichment Teacher", "size": 354},
+            {"name": "Coach", "size": 276},
+            {"name": "Postsecondary Teacher", "size": 237},
+            {"name": "Health Teacher", "size": 234}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arts",
+      "children": [
+        {"name": "Telecomm Installer", "size": 238},
+        {"name": "Graphic Designer", "size": 266},
+      ]
+    },
+    {
+      "name": "Agriculture",
+      "children": [
+        {"name": "Farming Manager", "size": 1029},
+        {"name": "Animal Farmworker", "size": 268},
+        {"name": "Animal Caretaker (NonFarm)", "size": 242},
+        {"name": "Plant Farmworker", "size": 504}
+      ]
+    },
+    {
+      "name": "Health Science",
+      "children": [
+        {"name": "Radiologist", "size": 205},
+        {"name": "Medical Record Technician", "size": 206},
+        {"name": "Medical Secretary", "size": 574},
+        {"name": "Medical Manager", "size": 352},
+        {
+          "name": "Therapeutic",
+          "children": [
+            {"name": "Registered Nurse", "size": 2955},
+            {"name": "Nursing Assistant", "size": 1510},
+            {"name": "Home Aid", "size": 912},
+            {"name": "Licensed Nurse", "size": 725},
+            {"name": "Medical Assistant", "size": 634},
+            {"name": "Pharmacy Tech", "size": 403},
+            {"name": "Physicians (Other)", "size": 372},
+            {"name": "Dental Assistant", "size": 332},
+            {"name": "Pharmacist", "size": 313},
+            {"name": "Physical Therpaist", "size": 240},
+            {"name": "Dental Hygienist", "size": 208},
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Law",
+      "children": [
+        {"name": "Corrections Officer", "size": 450},
+        {"name": "Firefighter", "size": 327},
+        {"name": "Paramedic", "size": 248},
+        {"name": "Policeman", "size": 684},
+        {"name": "Lawyer", "size": 793},
+        {"name": "Paralegal", "size": 286},
+        {"name": "Security Guard", "size": 1123}
+      ]
+    },
+    {
+      "name": "Science",
+      "children": [
+        {"name": "Mechanical Engineer", "size": 289},
+        {"name": "Industrial Engineer", "size": 258}
+      ]
+    },
+    {
       "name": "Finance",
       "children": [
         {"name": "Accounting", "size": 1398},
