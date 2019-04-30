@@ -71,6 +71,52 @@
       ]
     },
     {
+      "name": "Hospitality",
+      "children": [
+        {
+          "name": "Lodging",
+          "children": [
+            {"name": "Keep Supervisor", "size": 244},
+            {"name": "Desk Clerk", "size": 253},
+            {"name": "Cleaner", "size": 2385},
+            {"name": "Housekeeper", "size": 1443}
+          ]
+        },
+        {
+          "name": "Recreation",
+          "children": [
+            {"name": "Rec Attendant", "size": 300},
+            {"name": "Rec Worker", "size": 390}
+          ]
+        },
+        {
+          "name": "Restaurants",
+          "children": [
+            {"name": "Bartender", "size": 611},
+            {"name": "Food Prep/Service", "size": 3452},
+            {"name": "Fast Food Cook", "size": 518},
+            {"name": "Cafeteria Cook", "size": 425},
+            {"name": "Restaurant Cook", "size": 1232},
+            {"name": "Counter Attendant", "size": 505},
+            {"name": "Dining Room Helper", "size": 431},
+            {"name": "Dishwasher", "size": 514},
+            {"name": "Food Prep Supervisor", "size": 937},
+            {"name": "Food Server Nonrestaurant", "size": 264},
+            {"name": "Service Manager", "size": 309},
+            {"name": "Host", "size": 409},
+            {"name": "Waiter", "size": 2601}
+          ]
+        },
+        {
+          "name": "Securities",
+          "children": [
+            {"name": "Financial Advisor", "size": 272},
+            {"name": "Sales Agent", "size": 376}
+          ]
+        }
+      ]
+    },
+    {
       "name": "Business Mgmt",
       "children": [
         {"name": "Info Systems", "size": 368},
