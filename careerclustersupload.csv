@@ -1,0 +1,909 @@
+﻿name,parent,amount
+Retail Salespersons,Sales,4602.5
+Cashiers,Sales,3555.5
+Combined Food Prepar,Restaurants,3452.2
+"Office Clerks, Gener",Admin Support,3117.7
+Registered Nurses,Therapeutic,2955.2
+Customer Service Rep,Admin Support,2784.5
+Laborers and Freight,Transport Ops,2628.4
+Waiters and Waitress,Restaurants,2600.5
+Secretaries and Admi,Admin Support,2536.2
+Janitors and Cleaner,Lodging,2384.6
+General and Operatio,General Mgmt,2263.1
+Personal Care Aides,Personal Care,2016.1
+Stock Clerks and Ord,Admin Support,2008.6
+Heavy and Tractor-Tr,Transport Ops,1871.7
+"Bookkeeping, Account",Admin Support,1730.5
+First-Line Superviso,Sales,1532.4
+Nursing Assistants,Therapeutic,1510.3
+First-Line Superviso,Admin Support,1506.3
+Sales Representative,Sales,1469.9
+Maids and Housekeepi,Lodging,1443.2
+Maintenance and Repa,Repair Installation,1432.6
+Elementary School Te,Teaching,1410.9
+Accountants and Audi,Accounting,1397.7
+Teacher Assistants,Teaching,1308.1
+"Cooks, Restaurant",Restaurants,1231.9
+Construction Laborer,Construction,1216.7
+Childcare Workers,Children Svcs,1216.6
+Landscaping and Grou,Maintenance,1197.9
+Team Assemblers,Production,1130.9
+Security Guards,Security,1123.3
+Receptionists and In,Admin Support,1053.7
+"Farmers, Ranchers, a",Agribusiness,1028.7
+Carpenters,Construction,1025.6
+Business Operations ,Ops Mgmt,1023.9
+Secondary School Tea,Teaching,1018.7
+Teachers and Instruc,Teaching,993.9
+"Managers, All Other",General Mgmt,992.1
+Sales Representative,Sales,983
+Light Truck or Deliv,Transport Ops,953.5
+First-Line Superviso,Restaurants,936.9
+Home Health Aides,Therapeutic,911.5
+Food Preparation Wor,Restaurants,871.1
+"Software Developers,",Programming,831.3
+Management Analysts,Ops Mgmt,806.4
+Lawyers,Legal,792.5
+Automotive Service T,Facilities,749.9
+Licensed Practical a,Therapeutic,724.5
+Packers and Packager,Transport Ops,710.8
+Executive Secretarie,Admin Support,685.3
+Police and Sheriff's,Law Enforcement,684.2
+"Shipping, Receiving,",Admin Support,681.4
+Electricians,Construction,666.9
+Computer User Suppor,Info Support,636.6
+Medical Assistants,Therapeutic,634.4
+Middle School Teache,Teaching,630.3
+First-Line Superviso,Production,621.4
+"Hairdressers, Hairst",Personal Care,617.3
+Bartenders,Restaurants,611.2
+First-Line Superviso,Construction,602.5
+Computer Systems Ana,Programming,600.5
+Market Research Anal,Research,595.4
+Financial Managers,Business Finance,580.4
+Medical Secretaries,Health Informatics,574.2
+Industrial Truck and,Transport Ops,549.9
+Human Resources Spec,HR Mgmt,547.8
+"Inspectors, Testers,",QA,520.7
+"Cooks, Fast Food",Restaurants,517.6
+Dishwashers,Restaurants,514.3
+"Bus Drivers, School ",Transport Ops,507.9
+"Counter Attendants, ",Restaurants,505.2
+Farmworkers and Labo,Plants,503.7
+Tellers,Banking,502.7
+Insurance Sales Agen,Insurance,501.4
+Billing and Posting ,Sales and Service,501
+"Plumbers, Pipefitter",Construction,480.6
+"Preschool Teachers, ",Teaching,478.5
+Driver/Sales Workers,Sales,467.9
+First-Line Superviso,Repair Installation,462.2
+Counter and Rental C,Sales,458.2
+Correctional Officer,Corrections,450
+Dining Room and Cafe,Restaurants,431.2
+Helpers--Production ,Production,426
+"Software Developers,",Programming,425
+"Cooks, Institution a",Restaurants,424.8
+"Hosts and Hostesses,",Restaurants,409.2
+First-Line Superviso,Sales,405.2
+"Welders, Cutters, So",Production,404.8
+Construction Manager,Construction,403.8
+Pharmacy Technicians,Therapeutic,402.5
+Machinists,Production,396.2
+Network and Computer,Networks,391.3
+Recreation Workers,Recreation,390
+Social and Human Ser,Family Svcs,389.8
+Sales Managers,Marketing Mgmt,385.5
+Packaging and Fillin,Production,383
+"Painters, Constructi",Construction,381.5
+"Securities, Commodit",Securities,375.7
+Physicians and Surge,Therapeutic,372.4
+Operating Engineers ,Construction,371.1
+Cleaners of Vehicles,Facilities,369.2
+Computer and Informa,Business Info Mgmt,367.6
+Self-Enrichment Educ,Teaching,354.2
+Medical and Health S,Support,352.2
+Real Estate Sales Ag,Sales,348.8
+Industrial Machinery,Repair Installation,346.9
+Sales Representative,Sales,343.6
+"Heating, Air Conditi",Maintenance,332.9
+Dental Assistants,Therapeutic,332
+"Production, Planning",QA,329.4
+Firefighters,Emergency Svcs,327.3
+Loan Officers,Banking,318.6
+"Child, Family, and S",Family Svcs,317.6
+"Property, Real Estat",Marketing Mgmt,317.3
+Postal Service Mail ,Admin Support,316.7
+Pharmacists,Therapeutic,312.5
+"Claims Adjusters, Ex",Insurance,311.1
+"Purchasing Agents, E",Process Dvlpmt,309.4
+Chief Executives,General Mgmt,308.9
+Food Service Manager,Restaurants,308.7
+Insurance Claims and,Insurance,308.5
+Bill and Account Col,Banking,305.7
+Taxi Drivers and Cha,Transport Ops,305.1
+Civil Engineers,Design,303.5
+Amusement and Recrea,Recreation,300
+Fitness Trainers and,Personal Care,299.2
+Financial Analysts,Business Finance,296.1
+Computer Programmers,Programming,294.9
+"Educational, Guidanc",Professional Support,291.7
+Mechanical Engineers,Engineering,288.8
+Compliance Officers,Governance,288.3
+Computer Occupations,Info Support,287.2
+Paralegals and Legal,Legal,285.6
+Training and Develop,HR Mgmt,282.8
+Administrative Servi,Ops Mgmt,281.7
+Bus and Truck Mechan,Facilities,278.8
+Coaches and Scouts,Teaching,276.1
+First-Line Superviso,Personal Care,276.1
+Personal Financial A,Securities,271.9
+"Farmworkers, Farm, R",Animal Systems,268.1
+Graphic Designers,Visual Arts,266.3
+"Food Servers, Nonres",Restaurants,263.8
+"Production Workers, ",Production,263.5
+Public Relations Spe,Comms,259.6
+Industrial Engineers,Engineering,257.9
+"Hotel, Motel, and Re",Lodging,252.6
+Parts Salespersons,Sales,251.9
+Education Administra,Administration,251.3
+Emergency Medical Te,Emergency Svcs,248
+Clergy,Family Svcs,243.9
+First-Line Superviso,Lodging,243.5
+Office and Administr,Admin Support,243.2
+Nonfarm Animal Caret,Animal Systems,241.5
+Physical Therapists,Therapeutic,239.8
+Telecommunications E,Telecomm,237.6
+Postsecondary Teache,Teaching,236.5
+Health Specialties T,Teaching,233.5
+Assemblers and Fabri,Production,232.4
+Loan Interviewers an,Banking,229.8
+Laundry and Dry-Clea,Personal Care,220.1
+Electrical and Elect,Production,218.9
+Marketing Managers,Marketing Mgmt,218.3
+Cost Estimators,Design,217.9
+Telemarketers,Sales,216.6
+Dental Hygienists,Therapeutic,207.9
+Medical Records and ,Health Informatics,206.3
+Radiologic Technolog,Diagnostics,205.2
+First-Line Superviso,Transport Ops,204.2
+Data Entry Keyers,Admin Support,203.8
+"Dispatchers, Except ",Planning Mgmt,201.7
+Computer Network Sup,Networks,198.8
+"Interviewers, Except",Admin Support,194.7
+Legal Secretaries,Legal,194.7
+"Cutting, Punching, a",Production,192.7
+Bakers,Restaurants,191
+Special Education Te,Teaching,188.9
+Electrical Engineers,Engineering,188.3
+"Cooks, Short Order",Restaurants,185.9
+First-Line Superviso,Transport Ops,184.4
+Education Administra,Administration,180.1
+Architectural and En,Engineering,180.1
+"Bus Drivers, Transit",Transport Ops,179.3
+Order Clerks,Admin Support,179
+Cement Masons and Co,Construction,178.9
+Printing Press Opera,Printing,178.7
+First-Line Superviso,Maintenance,178.3
+Information and Reco,Admin Support,178.1
+Healthcare Social Wo,Family Svcs,176.5
+"Installation, Mainte",Repair Installation,175.8
+Musicians and Singer,Performing Arts,172.4
+Medical and Clinical,Diagnostics,171.4
+Industrial Productio,Ops Mgmt,170.6
+Graduate Teaching As,Teaching,168.3
+Payroll and Timekeep,Admin Support,166.3
+Medical and Clinical,Diagnostics,164.2
+Instructional Coordi,Professional Support,163.2
+Web Developers,Web Comms,162.9
+Computer Network Arc,Networks,162.7
+Automotive Body and ,Facilities,160.4
+Massage Therapists,Personal Care,160.3
+Mental Health Counse,Counseling,157.7
+"Meat, Poultry, and F",Production,156.4
+Nurse Practitioners,Therapeutic,155.5
+Kindergarten Teacher,Teaching,154.4
+Sewing Machine Opera,Production,153.9
+Food Batchmakers,Production,153.7
+"Lifeguards, Ski Patr",Security,152.1
+Parking Lot Attendan,Sales and Service,151.6
+Reservation and Tran,Travel,150.1
+Advertising Sales Ag,Sales,149.9
+Highway Maintenance ,Maintenance,149.9
+Logisticians,Planning Mgmt,148.7
+"Clinical, Counseling",Counseling,147.5
+Social and Community,Family Svcs,147.3
+Photographers,Journalism,147.3
+"Directors, Religious",Family Svcs,147.1
+Chefs and Head Cooks,Restaurants,146.5
+Roofers,Construction,146.2
+Computer-Controlled ,Production,145.7
+"Molding, Coremaking,",Production,145.4
+Speech-Language Path,Therapeutic,145.1
+Eligibility Intervie,Public Mgmt,143.1
+Human Resources Assi,Admin Support,141.5
+Merchandise Displaye,Merchandising,141.4
+Sheet Metal Workers,Construction,138.9
+Librarians,Professional Support,138.2
+Electrical and Elect,Process Dvlpmt,137
+Electronics Engineer,Engineering,136.3
+Human Resources Mana,HR Mgmt,136.1
+Refuse and Recyclabl,Enviro Svcs,136
+Financial Specialist,Securities,135.9
+Butchers and Meat Cu,Production,135.7
+"Court, Municipal, an",Public Mgmt,135.5
+File Clerks,Admin Support,135
+Family and General P,Therapeutic,134.8
+Producers and Direct,Performing Arts,134.7
+Protective Service W,Security,133.8
+"Dentists, General",Therapeutic,132.8
+"Engineers, All Other",Engineering,132.5
+Aircraft Mechanics a,Facilities,132
+Special Education Te,Teaching,131.9
+Writers and Authors,Journalism,131.2
+Mixing and Blending ,Production,131
+Occupational Therapi,Therapeutic,130.4
+Respiratory Therapis,Therapeutic,130.2
+"Architects, Except L",Design,128.8
+Vocational Education,Teaching,128
+Health Technologists,Diagnostics,127.8
+Editors,Journalism,127.4
+Mobile Heavy Equipme,Facilities,127.4
+Manicurists and Pedi,Personal Care,126.3
+Mental Health and Su,Counseling,123.9
+Wholesale and Retail,Merchandising,123.3
+Phlebotomists,Support,122.7
+"Art, Drama, and Musi",Teaching,122.5
+Electrical Power-Lin,Maintenance,120.9
+Helpers--Installatio,Maintenance,120.2
+"Medical Scientists, ",Biotech,120
+Database Administrat,Networks,119.5
+Drywall and Ceiling ,Construction,119.5
+"Computer, Automated ",Repair Installation,119.5
+Rehabilitation Couns,Counseling,119.3
+Water and Wastewater,Enviro Svcs,119.2
+Residential Advisors,Personal Care,118.8
+Multiple Machine Too,Production,117.8
+"Ushers, Lobby Attend",Recreation,117.7
+"Meeting, Convention,",Ops Mgmt,116.7
+Flight Attendants,Transport Ops,116.6
+"Transportation, Stor",Planning Mgmt,115.5
+Operations Research ,Ops Mgmt,114
+"Education, Training,",Teaching,112.7
+Tire Repairers and C,Facilities,111.7
+Detectives and Crimi,Law Enforcement,110.9
+Automotive and Water,Facilities,110
+Cabinetmakers and Be,Production,109.3
+Surgical Technologis,Therapeutic,107.7
+Postal Service Mail ,Admin Support,106.7
+Physician Assistants,Therapeutic,106.2
+Telecommunications L,Telecomm,106.1
+Construction and Bui,Regulation,105.1
+First-Line Superviso,Law Enforcement,104.7
+"Library Assistants, ",Admin Support,104.3
+"Business Teachers, P",Teaching,104.2
+Insurance Underwrite,Insurance,104.1
+Substance Abuse and ,Counseling,102.4
+Veterinary Technolog,Diagnostics,102
+Community and Social,Family Svcs,100.3
+Information Security,Networks,100
+Architectural and Ci,Design,99.6
+Library Technicians,Professional Support,99.2
+"Police, Fire, and Am",Emergency Svcs,98.6
+Healthcare Support W,Support,97.3
+Gaming Dealers,Recreation,96.9
+Tax Preparers,Business Finance,95.9
+Sales and Related Wo,Sales,95.9
+Mail Clerks and Mail,Admin Support,95.5
+Real Estate Brokers,Sales,95.3
+Couriers and Messeng,Transport Ops,95
+Demonstrators and Pr,Sales,94.7
+Paper Goods Machine ,Production,94.6
+Switchboard Operator,Admin Support,93.2
+Probation Officers a,Corrections,91.3
+Brickmasons and Bloc,Construction,91.1
+Fundraisers,Ops Mgmt,90.4
+Art Directors,Visual Arts,90.3
+"Coating, Painting, a",Production,89.9
+Cargo and Freight Ag,Sales and Service,89.8
+"Maintenance Workers,",Repair Installation,89.7
+Environmental Scient,Science,89.5
+Special Education Te,Teaching,89.3
+Personal Care and Se,Personal Care,88.9
+Chemists,Science,88.3
+Physical Therapist A,Therapeutic,88.3
+Machine Feeders and ,Production,87.7
+English Language and,Teaching,84.6
+"Compensation, Benefi",HR Mgmt,84.2
+"Airline Pilots, Copi",Transport Ops,84
+Veterinary Assistant,Support,83.8
+Occupational Health ,Regulation,83.7
+Audio and Video Equi,Journalism,83.3
+Slaughterers and Mea,Production,82.5
+Door-To-Door Sales W,Sales,82.4
+Biological Technicia,Plants,82.1
+Travel Agents,Travel,81.7
+Labor Relations Spec,HR Mgmt,81.1
+Appraisers and Asses,Taxation,80.8
+Veterinarians,Therapeutic,79.6
+Postal Service Clerk,Admin Support,79
+Pest Control Workers,Enviro Svcs,78.9
+Career/Technical Edu,Teaching,78.7
+"Opticians, Dispensin",Therapeutic,77.6
+Woodworking Machine ,Production,77.1
+Structural Metal Fab,Construction,77
+Engineering Technici,Process Dvlpmt,76.8
+"Grinding, Lapping, P",Production,76.2
+"Life, Physical, and ",Science,76.1
+"Weighers, Measurers,",QA,75.9
+First-Line Superviso,Security,75.2
+Sales Engineers,Sales,74.9
+Procurement Clerks,Admin Support,74.9
+Word Processors and ,Admin Support,74.9
+Music Directors and ,Performing Arts,74.8
+Civil Engineering Te,Design,74.5
+"Education Teachers, ",Teaching,74.5
+Crossing Guards,Security,74.3
+Chemical Equipment O,Production,74.1
+Purchasing Managers,Ops Mgmt,73.9
+Credit Analysts,Banking,73.8
+Multimedia Artists a,Visual Arts,73.7
+Computer Hardware En,Engineering,73.6
+Psychiatric Aides,Therapeutic,73.6
+Public Relations and,Marketing Mgmt,73.5
+Helpers--Electrician,Construction,73.2
+Tool and Die Makers,Production,72.5
+Security and Fire Al,Repair Installation,72.3
+Extruding and Drawin,Production,72.3
+"Extruding, Forming, ",Production,71.4
+Structural Iron and ,Construction,70.2
+Aerospace Engineers,Engineering,69.6
+"Title Examiners, Abs",Legal,69
+Electrical and Elect,Repair Installation,68.3
+Adult Basic and Seco,Teaching,68.2
+Interpreters and Tra,Professional Support,68.2
+Dietitians and Nutri,Therapeutic,68
+Nursing Instructors ,Teaching,67.9
+Chemical Technicians,Process Dvlpmt,67.3
+Diagnostic Medical S,Diagnostics,67.3
+Interior Designers,Design,66.5
+Psychiatric Technici,Therapeutic,66.1
+Mechanical Drafters,Process Dvlpmt,64.8
+"Social Workers, All ",Family Svcs,64
+Industrial Engineeri,Process Dvlpmt,63.9
+Agricultural Equipme,Systems,63.9
+Actors,Performing Arts,63.8
+Cutting and Slicing ,Production,63.6
+Biological Science T,Teaching,62.3
+Tax Examiners and Co,Taxation,62.1
+Education Administra,Administration,61.8
+Skincare Specialists,Personal Care,61.3
+Health Educators,Family Svcs,61
+Mathematical Science,Teaching,60.9
+Food Preparation and,Restaurants,60.9
+Brokerage Clerks,Securities,60.4
+Surveying and Mappin,Design,60.2
+Office Machine Opera,Admin Support,59.9
+First-Line Superviso,Emergency Svcs,59.1
+Budget Analysts,Business Finance,58.4
+Tile and Marble Sett,Construction,58.3
+"Painters, Transporta",Production,58.1
+Community Health Wor,Family Svcs,57.5
+Medical Transcriptio,Health Informatics,57.4
+Natural Sciences Man,Natural Resources,56.7
+Health Diagnosing an,Therapeutic,56.4
+Barbers,Personal Care,56.4
+Motor Vehicle Operat,Transport Ops,56.2
+Legislators,Governance,55.5
+"Helpers--Pipelayers,",Construction,55.5
+Floral Designers,Visual Arts,55
+Cardiovascular Techn,Diagnostics,55
+Animal Trainers,Recreation,54.9
+Sawing Machine Sette,Production,54.8
+Tree Trimmers and Pr,Plants,54.5
+Medical Equipment Pr,Support,54.2
+Orderlies,Support,54
+Print Binding and Fi,Printing,54
+Environmental Engine,Enviro Svcs,53.8
+"Religious Workers, A",Family Svcs,53.2
+Financial Examiners,Governance,52.5
+Technical Writers,Journalism,52.4
+Physical Therapist A,Therapeutic,52
+"Paving, Surfacing, a",Construction,51.9
+Computer Operators,Admin Support,51.5
+Legal Support Worker,Legal,50.9
+Excavating and Loadi,Construction,50.6
+Glaziers,Construction,50.1
+"Roustabouts, Oil and",Construction,50
+"Internists, General",Therapeutic,49.8
+"Welding, Soldering, ",Production,49.2
+First-Line Superviso,Food Products,48.7
+Lodging Managers,Lodging,47.8
+Engineering Teachers,Teaching,47.6
+Chiropractors,Therapeutic,47.4
+"Separating, Filterin",Production,47.2
+Medical Equipment Re,Repair Installation,47.1
+"Psychology Teachers,",Teaching,46.9
+Control and Valve In,Maintenance,46.9
+Home Appliance Repai,Repair Installation,46.6
+Food Processing Work,Production,46.4
+Hazardous Materials ,Enviro Svcs,46.2
+Mechanical Engineeri,Process Dvlpmt,46.1
+Transportation Secur,National Security,46.1
+Crane and Tower Oper,Construction,46
+Tour Guides and Esco,Travel,45.8
+Electromechanical Eq,Production,45.7
+First-Line Superviso,Corrections,45.2
+Baggage Porters and ,Lodging,45.1
+Surgeons,Therapeutic,45
+"Pressers, Textile, G",Personal Care,45
+Surveyors,Design,44.8
+Reporters and Corres,Journalism,44.7
+Ophthalmic Medical T,Therapeutic,44.5
+"Tailors, Dressmakers",Personal Care,44.3
+Pipelayers,Construction,44.1
+"Molders, Shapers, an",Production,43
+"Graders and Sorters,",Food Products,42.9
+Construction and Rel,Maintenance,42.7
+Farm Equipment Mecha,Systems,42.5
+Social Scientists an,Science,42.1
+New Accounts Clerks,Admin Support,42
+Nurse Anesthetists,Therapeutic,41.8
+"Aircraft Structure, ",Production,41.8
+Petroleum Pump Syste,Production,41.8
+Railroad Conductors ,Transport Ops,41.8
+Upholsterers,Production,41.6
+Marriage and Family ,Counseling,41.5
+Private Detectives a,Law Enforcement,41.4
+Service Unit Operato,Construction,41.4
+Special Education Te,Teaching,41.3
+Radio and Television,Journalism,41.3
+Commercial Pilots,Transport Ops,40.8
+Carpet Installers,Construction,40.4
+Optometrists,Therapeutic,40.2
+Healthcare Practitio,Therapeutic,40
+Computer Science Tea,Teaching,39.7
+Commercial and Indus,Visual Arts,39.7
+Millwrights,Maintenance,39.5
+Occupational Therapy,Therapeutic,39.3
+Logging Equipment Op,Natural Resources,39.1
+Locomotive Engineers,Transport Ops,38.8
+"Captains, Mates, and",Transport Ops,38.8
+Biological Scientist,Science,38.7
+Gaming Supervisors,Recreation,38.5
+"Credit Authorizers, ",Banking,38.5
+Education Administra,Administration,38.4
+Credit Counselors,CHECK,38.3
+Dental Laboratory Te,Production,38.1
+"Pesticide Handlers, ",Plants,38
+Engine and Other Mac,Production,38
+Transportation Worke,Transport Ops,38
+Jewelers and Preciou,Production,37.7
+Outdoor Power Equipm,Repair Installation,37.6
+Statisticians,Science,37.2
+Food Cooking Machine,Production,37.2
+Pharmacy Aides,Support,36.9
+Helpers--Carpenters,Construction,36.7
+Magnetic Resonance I,Diagnostics,36.6
+"Financial Clerks, Al",Banking,36.6
+"Coin, Vending, and A",Repair Installation,36.6
+Funeral Attendants,Personal Care,36.1
+Power Plant Operator,Production,36.1
+Urban and Regional P,CHECK,36
+Stationary Engineers,Maintenance,35.7
+Plating and Coating ,Production,35.3
+Foreign Language and,Teaching,35
+"Meter Readers, Utili",Admin Support,34.8
+Environmental Scienc,Enviro Svcs,34.6
+Prepress Technicians,Printing,34.6
+Training and Develop,HR Mgmt,34.5
+Film and Video Edito,Journalism,34.2
+Communications Teach,Teaching,34.1
+Social Science Resea,Science,34
+Broadcast Technician,Journalism,34
+Sailors and Marine O,Transport Ops,33.8
+Petroleum Engineers,Engineering,33.7
+Lathe and Turning Ma,Production,33.7
+Dietetic Technicians,Therapeutic,33.4
+Forest and Conservat,Natural Resources,33.2
+Chemical Plant and S,Production,33.2
+Anesthesiologists,Therapeutic,33
+Media and Communicat,Journalism,32.9
+Chemical Engineers,Engineering,32.7
+Concierges,Lodging,32.5
+"Geoscientists, Excep",Science,32
+"Counselors, All Othe",Counseling,31.8
+Philosophy and Relig,Teaching,31.8
+Electronic Home Ente,Repair Installation,31.7
+Biochemists and Biop,Science,31.5
+Advertising and Prom,Marketing Mgmt,31.3
+"Insulation Workers, ",Construction,30.9
+"Textile Winding, Twi",Production,30.8
+"Crushing, Grinding, ",Production,30.2
+"Pediatricians, Gener",Therapeutic,29.6
+Special Education Te,Teaching,29.2
+Ophthalmic Laborator,Production,29.1
+Rolling Machine Sett,Production,29
+"Morticians, Undertak",Personal Care,28.7
+Locksmiths and Safe ,Repair Installation,28.7
+"Insulation Workers, ",Construction,28.6
+Septic Tank Servicer,Maintenance,28.5
+"Judges, Magistrate J",Legal,28.4
+Transportation Inspe,Governance,28.2
+Conveyor Operators a,Construction,28.1
+"Fine Artists, Includ",Visual Arts,28
+Computer and Informa,Science,27.9
+Athletic Trainers,Therapeutic,27.8
+Plasterers and Stucc,Construction,27.7
+Agricultural and Foo,Food Products,27.5
+Psychiatrists,Therapeutic,27.5
+Electrical and Elect,Process Dvlpmt,27.4
+Materials Engineers,Engineering,27
+"History Teachers, Po",Teaching,26.9
+Photographic Process,Production,26.9
+Entertainers and Per,Performing Arts,26.7
+Grinding and Polishi,Production,26.6
+"Chemistry Teachers, ",Teaching,26.3
+Health and Safety En,Engineering,25.9
+Funeral Service Mana,Personal Care,25.7
+Semiconductor Proces,Production,25.5
+"Camera Operators, Te",Journalism,25.1
+Fence Erectors,Construction,25.1
+Computer Numerically,Production,25.1
+"Cooks, Private House",Restaurants,25
+Air Traffic Controll,CHECK,24.9
+Landscape Architects,Design,24.7
+Material Moving Work,Transport Ops,24.4
+"Therapists, All Othe",Therapeutic,24.1
+Helpers--Brickmasons,Construction,24.1
+Fashion Designers,Visual Arts,23.8
+Tapers,Construction,23.7
+Actuaries,Insurance,23.6
+"Physical Scientists,",Science,23.5
+Gaming Change Person,Recreation,23.4
+Electrical and Elect,Repair Installation,23.4
+Motorboat Mechanics ,Facilities,23.4
+Microbiologists,Science,23.2
+Metal Workers and Pl,Production,23
+Furniture Finishers,Production,22.4
+Conservation Scienti,Science,22.3
+Rail Car Repairers,Facilities,22.3
+Tire Builders,Production,22.3
+Textile Knitting and,Production,22.2
+"Helpers, Constructio",Construction,22.1
+Elevator Installers ,Maintenance,22.1
+"Furnace, Kiln, Oven,",Production,21.9
+Obstetricians and Gy,Therapeutic,21.7
+Biomedical Engineers,Biotech,21.3
+Economists,Science,21.3
+Political Science Te,Teaching,21.2
+"Law Teachers, Postse",Teaching,21.2
+Shampooers,Personal Care,21.2
+"Umpires, Referees, a",Recreation,21.1
+Riggers,Construction,20.9
+Recreation and Fitne,Teaching,20.6
+Media and Communicat,Journalism,20.6
+Mechanical Door Repa,Maintenance,20.4
+Extruding and Formin,Production,20.2
+Nuclear Medicine Tec,Diagnostics,20.1
+Reinforcing Iron and,Construction,20.1
+Food and Tobacco Roa,Production,20.1
+Soil and Plant Scien,Plants,19.9
+Heat Treating Equipm,Production,19.8
+Fiberglass Laminator,Production,19.7
+Court Reporters,Legal,19.6
+"Earth Drillers, Exce",Construction,19.6
+Automotive Glass Ins,Facilities,19.6
+Zoologists and Wildl,Natural Resources,19.4
+"Railroad Brake, Sign",Transport Ops,19.3
+Recreational Therapi,Therapeutic,19.2
+Forging Machine Sett,Production,19.2
+Agents and Business ,Performing Arts,19.1
+Radiation Therapists,Therapeutic,19.1
+Gaming Cage Workers,Recreation,19
+Grounds Maintenance ,Maintenance,18.9
+Stonemasons,Construction,18.9
+Bailiffs,Security,18.6
+"Locker Room, Coatroo",Personal Care,18.6
+Transportation Atten,Transport Ops,18.5
+Motorcycle Mechanics,Facilities,18.3
+Occupational Health ,Regulation,18.1
+Physicists,Science,17.9
+"Sociology Teachers, ",Teaching,17.9
+"Cooks, All Other",Restaurants,17.8
+Nuclear Engineers,Engineering,17.7
+Metal-Refining Furna,Production,17.7
+Insurance Appraisers,Insurance,17.6
+"Physics Teachers, Po",Teaching,17.6
+Milling and Planing ,Production,17.6
+Avionics Technicians,Facilities,17.5
+"Psychologists, All O",Counseling,17.4
+Criminal Justice and,Teaching,17.3
+"Electric Motor, Powe",Repair Installation,17.3
+Gas Plant Operators,Production,17.3
+Ambulance Drivers an,Transport Ops,17.3
+Boilermakers,Maintenance,17.2
+"Cleaning, Washing, a",Production,17.2
+Environmental Engine,Enviro Svcs,17
+Food Scientists and ,Food Products,17
+Sound Engineering Te,Journalism,17
+Helpers--Extraction ,Construction,17
+Adhesive Bonding Mac,Production,17
+Rotary Drill Operato,Construction,16.7
+"Economics Teachers, ",Teaching,16.5
+"Floor Layers, Except",Construction,16.3
+"Textile, Apparel, an",Production,16.3
+"Painting, Coating, a",Production,16.3
+Building Cleaning Wo,Lodging,16.2
+"Drafters, All Other",Process Dvlpmt,15.9
+Compensation and Ben,HR Mgmt,15.8
+Agricultural Inspect,Regulation,15.6
+Forensic Science Tec,Law Enforcement,15.4
+Administrative Law J,Legal,15.4
+Social Sciences Teac,Teaching,15.3
+Exercise Physiologis,Therapeutic,15.1
+Geological and Petro,Natural Resources,15
+Textile Cutting Mach,Production,15
+Medical Appliance Te,Repair Installation,15
+Social Work Teachers,Teaching,14.9
+Audiologists,Therapeutic,14.8
+Cutters and Trimmers,Production,14.7
+Survey Researchers,Science,14.6
+Set and Exhibit Desi,Visual Arts,14.6
+Entertainment Attend,Recreation,14.6
+Desktop Publishers,Printing,14.6
+"Radio, Cellular, and",Repair Installation,14.5
+Forest and Conservat,Natural Resources,14.3
+Postmasters and Mail,Public Mgmt,14.2
+Proofreaders and Cop,Printing,14.2
+"Coil Winders, Tapers",Production,14.1
+Judicial Law Clerks,Legal,14
+Rail-Track Laying an,Facilities,14
+Electrical and Elect,Facilities,13.9
+Electro-Mechanical T,Process Dvlpmt,13.8
+Recreational Vehicle,Facilities,13.8
+Buyers and Purchasin,Agribusiness,13.7
+Dancers,Performing Arts,13.5
+"Sewers, Hand",Production,13.5
+Animal Control Worke,Law Enforcement,13.4
+"Atmospheric, Earth, ",Teaching,13.1
+Artists and Related ,Visual Arts,12.8
+Subway and Streetcar,Transport Ops,12.8
+Career/Technical Edu,Teaching,12.7
+Cartographers and Ph,Science,12.6
+Agricultural Science,Teaching,12.6
+Precision Instrument,Repair Installation,12.6
+Craft Artists,Visual Arts,12.5
+Gaming Service Worke,Recreation,12.5
+Foundry Mold and Cor,Production,12.5
+Curators,Professional Support,12.4
+Bicycle Repairers,Facilities,12.4
+Foresters,Natural Resources,12.3
+Fire Inspectors and ,Emergency Svcs,12.3
+Continuous Mining Ma,Construction,12.3
+Drilling and Boring ,Production,12.3
+Aerospace Engineerin,Process Dvlpmt,12.1
+Slot Supervisors,Recreation,12.1
+Electronic Equipment,Facilities,12.1
+"Woodworkers, All Oth",Production,12.1
+Plant and System Ope,Production,12.1
+"Pump Operators, Exce",Transport Ops,11.9
+Museum Technicians a,Professional Support,11.8
+Athletes and Sports ,Recreation,11.8
+Statistical Assistan,CHECK,11.8
+Gaming and Sports Bo,Recreation,11.7
+Agricultural Workers,Plants,11.6
+Power Distributors a,Production,11.6
+"Area, Ethnic, and Cu",Teaching,11.5
+Wellhead Pumpers,Transport Ops,11.5
+Public Address Syste,Performing Arts,11.4
+Audio-Visual and Mul,Professional Support,11.3
+Solar Photovoltaic I,Construction,11.3
+Textile Bleaching an,Production,11.3
+"Derrick Operators, O",Construction,11.1
+Podiatrists,Therapeutic,11
+Shoe and Leather Wor,Production,11
+"Helpers--Painters, P",Construction,10.9
+Respiratory Therapy ,Therapeutic,10.8
+"Tank Car, Truck, and",Transport Ops,10.8
+Gaming Surveillance ,Security,10.7
+Etchers and Engraver,Production,10.6
+Atmospheric and Spac,Science,10.4
+Farm and Home Manage,Teaching,10.4
+Helpers--Roofers,Construction,10.2
+Emergency Management,Public Mgmt,10.1
+Ship Engineers,Transport Ops,10.1
+Signal and Track Swi,Facilities,10
+Architecture Teacher,Teaching,9.5
+"Tool Grinders, Filer",Production,9.5
+Parking Enforcement ,Law Enforcement,9.4
+"Layout Workers, Meta",Production,9.2
+Telephone Operators,Admin Support,9.1
+"Designers, All Other",Visual Arts,9
+Animal Breeders,Animal Systems,9
+"Life Scientists, All",Science,8.9
+Airfield Operations ,CHECK,8.9
+Cooling and Freezing,Production,8.7
+"Pourers and Casters,",Production,8.4
+Musical Instrument R,Repair Installation,8.3
+Marine Engineers and,Engineering,8.2
+Materials Scientists,Science,7.9
+"Arbitrators, Mediato",Legal,7.8
+Orthotists and Prost,Therapeutic,7.8
+Anthropologists and ,Science,7.6
+Aircraft Cargo Handl,Transport Ops,7.6
+Occupational Therapy,Therapeutic,7.5
+Fallers,Natural Resources,7.5
+Mining and Geologica,Engineering,7.3
+Political Scientists,Science,7.3
+Floor Sanders and Fi,Construction,7.3
+Correspondence Clerk,Admin Support,7.2
+Anthropology and Arc,Teaching,7.1
+Fish and Game Warden,Law Enforcement,7
+Nuclear Power Reacto,Production,7
+Nuclear Technicians,Process Dvlpmt,6.9
+Environmental Scienc,Teaching,6.9
+Choreographers,Performing Arts,6.9
+Archivists,Professional Support,6.8
+Oral and Maxillofaci,Therapeutic,6.8
+Hearing Aid Speciali,Therapeutic,6.8
+Hydrologists,Science,6.7
+Orthodontists,Therapeutic,6.6
+Costume Attendants,Performing Arts,6.6
+Traffic Technicians,CHECK,6.6
+Nurse Midwives,Therapeutic,6.5
+"Dentists, All Other ",Therapeutic,6.4
+"Explosives Workers, ",Construction,6.3
+"Model Makers, Metal ",Production,6.3
+Animal Scientists,Animal Systems,6.1
+Epidemiologists,Diagnostics,6.1
+Mine Cutting and Cha,Construction,6.1
+Library Science Teac,Teaching,6
+Motion Picture Proje,Recreation,5.8
+Wind Turbine Service,Repair Installation,5.8
+Broadcast News Analy,Journalism,5.7
+Paperhangers,Construction,5.7
+Fabric and Apparel P,Production,5.5
+"Geography Teachers, ",Teaching,5
+Transit and Railroad,Law Enforcement,4.9
+"Makeup Artists, Thea",Performing Arts,4.8
+Models,Merchandising,4.8
+Rail Transportation ,Transport Ops,4.6
+Gaming Managers,Recreation,4.5
+"Logging Workers, All",Natural Resources,4.5
+"Rail Yard Engineers,",Transport Ops,4.4
+Manufactured Buildin,Construction,4.3
+Log Graders and Scal,Natural Resources,4.2
+"Extraction Workers, ",Construction,4.2
+Commercial Divers,Maintenance,4.1
+Camera and Photograp,Repair Installation,4
+Gas Compressor and G,Transport Ops,3.9
+Embalmers,Personal Care,3.7
+Pile-Driver Operator,Construction,3.7
+"Rock Splitters, Quar",Construction,3.7
+"Roof Bolters, Mining",Construction,3.7
+Bridge and Lock Tend,Transport Ops,3.7
+Travel Guides,Travel,3.6
+Terrazzo Workers and,Construction,3.6
+Shoe Machine Operato,Production,3.6
+Motorboat Operators,Transport Ops,3.6
+Sociologists,Science,3.5
+Home Economics Teach,Teaching,3.5
+"Patternmakers, Metal",Production,3.4
+Historians,Science,3.3
+Mathematicians,Science,3.1
+Genetic Counselors,Therapeutic,3.1
+Farm Labor Contracto,Agribusiness,3
+Hoist and Winch Oper,Construction,2.9
+Agricultural Enginee,Systems,2.7
+Loading Machine Oper,Construction,2.6
+Communications Equip,Admin Support,2.4
+Mathematical Science,Science,2.2
+Forestry and Conserv,Teaching,2.2
+Mining Machine Opera,Construction,2.2
+Segmental Pavers,Construction,2.1
+Astronomers,Science,2
+"Model Makers, Wood",Production,1.9
+Watch Repairers,Repair Installation,1.8
+"Patternmakers, Wood",Production,1.8
+Dredge Operators,Construction,1.8
+Industrial-Organizat,Counseling,1.7
+Forest Fire Inspecto,Emergency Svcs,1.7
+Refractory Materials,Maintenance,1.6
+Geographers,Science,1.5
+Mine Shuttle Car Ope,Transport Ops,1.5
+Locomotive Firers,Transport Ops,1.2
+Radio Operators,Journalism,0.9
+Prosthodontists,Therapeutic,0.9
+Timing Device Assemb,Production,0.8
+"Fabric Menders, Exce",Repair Installation,0.7
+Mathematical Technic,Science,0.6
+Sales,Marketing,
+Restaurants,Hospitality,
+Admin Support,Business Mgmt,
+Therapeutic,Health Science,
+Transport Ops,Logistics,
+Lodging,Hospitality,
+General Mgmt,Business Mgmt,
+Personal Care,Human Svcs,
+Repair Installation,Manufacturing,
+Teaching,Education,
+Accounting,Finance,
+Construction,Architecture,
+Children Svcs,Human Svcs,
+Maintenance,Architecture,
+Production,Manufacturing,
+Security,Law,
+Agribusiness,Agriculture,
+Ops Mgmt,Business Mgmt,
+Programming,Technology,
+Legal,Law,
+Facilities,Logistics,
+Law Enforcement,Law,
+Info Support,Technology,
+Research,Marketing,
+Business Finance,Finance,
+Health Informatics,Health Science,
+HR Mgmt,Business Mgmt,
+QA,Manufacturing,
+Plants,Agriculture,
+Banking,Finance,
+Insurance,Finance,
+Sales and Service,Logistics,
+Corrections,Law,
+Networks,Technology,
+Recreation,Hospitality,
+Family Svcs,Human Svcs,
+Marketing Mgmt,Marketing,
+Securities,Finance,
+Business Info Mgmt,Business Mgmt,
+Support,Health Science,
+Emergency Svcs,Law,
+Process Dvlpmt,Manufacturing,
+Design,Architecture,
+Professional Support,Education,
+Engineering,Science Tech Eng Math,
+Governance,Government,
+Animal Systems,Agriculture,
+Visual Arts,Arts,
+Comms,Marketing,
+Administration,Education,
+Telecomm,Arts,
+Diagnostics,Health Science,
+Planning Mgmt,Logistics,
+Printing,Arts,
+Performing Arts,Arts,
+Web Comms,Technology,
+Counseling,Human Svcs,
+Travel,Hospitality,
+Journalism,Arts,
+Public Mgmt,Government,
+Merchandising,Marketing,
+Enviro Svcs,Agriculture,
+Biotech,Health Science,
+Regulation,Government,
+Science,Science Tech Eng Math,
+Taxation,Government,
+Systems,Agriculture,
+Natural Resources,Agriculture,
+Food Products,Agriculture,
+National Security,Government,
+Consumer Svcs,Human Svcs,
+Planning,Government,
+Transport Mgmt,Logistics,
+Marketing,World of Jobs,
+Hospitality,World of Jobs,
+Business Mgmt,World of Jobs,
+Health Science,World of Jobs,
+Logistics,World of Jobs,
+Human Svcs,World of Jobs,
+Manufacturing,World of Jobs,
+Education,World of Jobs,
+Finance,World of Jobs,
+Architecture,World of Jobs,
+Law,World of Jobs,
+Agriculture,World of Jobs,
+Technology,World of Jobs,
+Science Tech Eng Math,World of Jobs,
+Government,World of Jobs,
+Arts,World of Jobs,
+World of Jobs,,
