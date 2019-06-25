@@ -1,0 +1,4542 @@
+[
+ {
+   "name": "Retail Salespersons",
+   "parent": "Sales",
+   "amount": 4602.5
+ },
+ {
+   "name": "Cashiers",
+   "parent": "Sales",
+   "amount": 3555.5
+ },
+ {
+   "name": "Combined Food Prepar",
+   "parent": "Restaurants",
+   "amount": 3452.2
+ },
+ {
+   "name": "Office Clerks, Gener",
+   "parent": "Admin Support",
+   "amount": 3117.7
+ },
+ {
+   "name": "Registered Nurses",
+   "parent": "Therapeutic",
+   "amount": 2955.2
+ },
+ {
+   "name": "Customer Service Rep",
+   "parent": "Admin Support",
+   "amount": 2784.5
+ },
+ {
+   "name": "Laborers and Freight",
+   "parent": "Transport Ops",
+   "amount": 2628.4
+ },
+ {
+   "name": "Waiters and Waitress",
+   "parent": "Restaurants",
+   "amount": 2600.5
+ },
+ {
+   "name": "Secretaries and Admi",
+   "parent": "Admin Support",
+   "amount": 2536.2
+ },
+ {
+   "name": "Janitors and Cleaner",
+   "parent": "Lodging",
+   "amount": 2384.6
+ },
+ {
+   "name": "General and Operatio",
+   "parent": "General Mgmt",
+   "amount": 2263.1
+ },
+ {
+   "name": "Personal Care Aides",
+   "parent": "Personal Care",
+   "amount": 2016.1
+ },
+ {
+   "name": "Stock Clerks and Ord",
+   "parent": "Admin Support",
+   "amount": 2008.6
+ },
+ {
+   "name": "Heavy and Tractor-Tr",
+   "parent": "Transport Ops",
+   "amount": 1871.7
+ },
+ {
+   "name": "Bookkeeping, Account",
+   "parent": "Admin Support",
+   "amount": 1730.5
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Sales",
+   "amount": 1532.4
+ },
+ {
+   "name": "Nursing Assistants",
+   "parent": "Therapeutic",
+   "amount": 1510.3
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Admin Support",
+   "amount": 1506.3
+ },
+ {
+   "name": "Sales Representative",
+   "parent": "Sales",
+   "amount": 1469.9
+ },
+ {
+   "name": "Maids and Housekeepi",
+   "parent": "Lodging",
+   "amount": 1443.2
+ },
+ {
+   "name": "Maintenance and Repa",
+   "parent": "Repair Installation",
+   "amount": 1432.6
+ },
+ {
+   "name": "Elementary School Te",
+   "parent": "Teaching",
+   "amount": 1410.9
+ },
+ {
+   "name": "Accountants and Audi",
+   "parent": "Accounting",
+   "amount": 1397.7
+ },
+ {
+   "name": "Teacher Assistants",
+   "parent": "Teaching",
+   "amount": 1308.1
+ },
+ {
+   "name": "Cooks, Restaurant",
+   "parent": "Restaurants",
+   "amount": 1231.9
+ },
+ {
+   "name": "Construction Laborer",
+   "parent": "Construction",
+   "amount": 1216.7
+ },
+ {
+   "name": "Childcare Workers",
+   "parent": "Children Svcs",
+   "amount": 1216.6
+ },
+ {
+   "name": "Landscaping and Grou",
+   "parent": "Maintenance",
+   "amount": 1197.9
+ },
+ {
+   "name": "Team Assemblers",
+   "parent": "Production",
+   "amount": 1130.9
+ },
+ {
+   "name": "Security Guards",
+   "parent": "Security",
+   "amount": 1123.3
+ },
+ {
+   "name": "Receptionists and In",
+   "parent": "Admin Support",
+   "amount": 1053.7
+ },
+ {
+   "name": "Farmers, Ranchers, a",
+   "parent": "Agribusiness",
+   "amount": 1028.7
+ },
+ {
+   "name": "Carpenters",
+   "parent": "Construction",
+   "amount": 1025.6
+ },
+ {
+   "name": "Business Operations ",
+   "parent": "Ops Mgmt",
+   "amount": 1023.9
+ },
+ {
+   "name": "Secondary School Tea",
+   "parent": "Teaching",
+   "amount": 1018.7
+ },
+ {
+   "name": "Teachers and Instruc",
+   "parent": "Teaching",
+   "amount": 993.9
+ },
+ {
+   "name": "Managers, All Other",
+   "parent": "General Mgmt",
+   "amount": 992.1
+ },
+ {
+   "name": "Sales Representative",
+   "parent": "Sales",
+   "amount": 983
+ },
+ {
+   "name": "Light Truck or Deliv",
+   "parent": "Transport Ops",
+   "amount": 953.5
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Restaurants",
+   "amount": 936.9
+ },
+ {
+   "name": "Home Health Aides",
+   "parent": "Therapeutic",
+   "amount": 911.5
+ },
+ {
+   "name": "Food Preparation Wor",
+   "parent": "Restaurants",
+   "amount": 871.1
+ },
+ {
+   "name": "Software Developers,",
+   "parent": "Programming",
+   "amount": 831.3
+ },
+ {
+   "name": "Management Analysts",
+   "parent": "Ops Mgmt",
+   "amount": 806.4
+ },
+ {
+   "name": "Lawyers",
+   "parent": "Legal",
+   "amount": 792.5
+ },
+ {
+   "name": "Automotive Service T",
+   "parent": "Facilities",
+   "amount": 749.9
+ },
+ {
+   "name": "Licensed Practical a",
+   "parent": "Therapeutic",
+   "amount": 724.5
+ },
+ {
+   "name": "Packers and Packager",
+   "parent": "Transport Ops",
+   "amount": 710.8
+ },
+ {
+   "name": "Executive Secretarie",
+   "parent": "Admin Support",
+   "amount": 685.3
+ },
+ {
+   "name": "Police and Sheriff's",
+   "parent": "Law Enforcement",
+   "amount": 684.2
+ },
+ {
+   "name": "Shipping, Receiving,",
+   "parent": "Admin Support",
+   "amount": 681.4
+ },
+ {
+   "name": "Electricians",
+   "parent": "Construction",
+   "amount": 666.9
+ },
+ {
+   "name": "Computer User Suppor",
+   "parent": "Info Support",
+   "amount": 636.6
+ },
+ {
+   "name": "Medical Assistants",
+   "parent": "Therapeutic",
+   "amount": 634.4
+ },
+ {
+   "name": "Middle School Teache",
+   "parent": "Teaching",
+   "amount": 630.3
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Production",
+   "amount": 621.4
+ },
+ {
+   "name": "Hairdressers, Hairst",
+   "parent": "Personal Care",
+   "amount": 617.3
+ },
+ {
+   "name": "Bartenders",
+   "parent": "Restaurants",
+   "amount": 611.2
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Construction",
+   "amount": 602.5
+ },
+ {
+   "name": "Computer Systems Ana",
+   "parent": "Programming",
+   "amount": 600.5
+ },
+ {
+   "name": "Market Research Anal",
+   "parent": "Research",
+   "amount": 595.4
+ },
+ {
+   "name": "Financial Managers",
+   "parent": "Business Finance",
+   "amount": 580.4
+ },
+ {
+   "name": "Medical Secretaries",
+   "parent": "Health Informatics",
+   "amount": 574.2
+ },
+ {
+   "name": "Industrial Truck and",
+   "parent": "Transport Ops",
+   "amount": 549.9
+ },
+ {
+   "name": "Human Resources Spec",
+   "parent": "HR Mgmt",
+   "amount": 547.8
+ },
+ {
+   "name": "Inspectors, Testers,",
+   "parent": "QA",
+   "amount": 520.7
+ },
+ {
+   "name": "Cooks, Fast Food",
+   "parent": "Restaurants",
+   "amount": 517.6
+ },
+ {
+   "name": "Dishwashers",
+   "parent": "Restaurants",
+   "amount": 514.3
+ },
+ {
+   "name": "Bus Drivers, School ",
+   "parent": "Transport Ops",
+   "amount": 507.9
+ },
+ {
+   "name": "Counter Attendants, ",
+   "parent": "Restaurants",
+   "amount": 505.2
+ },
+ {
+   "name": "Farmworkers and Labo",
+   "parent": "Plants",
+   "amount": 503.7
+ },
+ {
+   "name": "Tellers",
+   "parent": "Banking",
+   "amount": 502.7
+ },
+ {
+   "name": "Insurance Sales Agen",
+   "parent": "Insurance",
+   "amount": 501.4
+ },
+ {
+   "name": "Billing and Posting ",
+   "parent": "Sales and Service",
+   "amount": 501
+ },
+ {
+   "name": "Plumbers, Pipefitter",
+   "parent": "Construction",
+   "amount": 480.6
+ },
+ {
+   "name": "Preschool Teachers, ",
+   "parent": "Teaching",
+   "amount": 478.5
+ },
+ {
+   "name": "Driver/Sales Workers",
+   "parent": "Sales",
+   "amount": 467.9
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Repair Installation",
+   "amount": 462.2
+ },
+ {
+   "name": "Counter and Rental C",
+   "parent": "Sales",
+   "amount": 458.2
+ },
+ {
+   "name": "Correctional Officer",
+   "parent": "Corrections",
+   "amount": 450
+ },
+ {
+   "name": "Dining Room and Cafe",
+   "parent": "Restaurants",
+   "amount": 431.2
+ },
+ {
+   "name": "Helpers--Production ",
+   "parent": "Production",
+   "amount": 426
+ },
+ {
+   "name": "Software Developers,",
+   "parent": "Programming",
+   "amount": 425
+ },
+ {
+   "name": "Cooks, Institution a",
+   "parent": "Restaurants",
+   "amount": 424.8
+ },
+ {
+   "name": "Hosts and Hostesses,",
+   "parent": "Restaurants",
+   "amount": 409.2
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Sales",
+   "amount": 405.2
+ },
+ {
+   "name": "Welders, Cutters, So",
+   "parent": "Production",
+   "amount": 404.8
+ },
+ {
+   "name": "Construction Manager",
+   "parent": "Construction",
+   "amount": 403.8
+ },
+ {
+   "name": "Pharmacy Technicians",
+   "parent": "Therapeutic",
+   "amount": 402.5
+ },
+ {
+   "name": "Machinists",
+   "parent": "Production",
+   "amount": 396.2
+ },
+ {
+   "name": "Network and Computer",
+   "parent": "Networks",
+   "amount": 391.3
+ },
+ {
+   "name": "Recreation Workers",
+   "parent": "Recreation",
+   "amount": 390
+ },
+ {
+   "name": "Social and Human Ser",
+   "parent": "Family Svcs",
+   "amount": 389.8
+ },
+ {
+   "name": "Sales Managers",
+   "parent": "Marketing Mgmt",
+   "amount": 385.5
+ },
+ {
+   "name": "Packaging and Fillin",
+   "parent": "Production",
+   "amount": 383
+ },
+ {
+   "name": "Painters, Constructi",
+   "parent": "Construction",
+   "amount": 381.5
+ },
+ {
+   "name": "Securities, Commodit",
+   "parent": "Securities",
+   "amount": 375.7
+ },
+ {
+   "name": "Physicians and Surge",
+   "parent": "Therapeutic",
+   "amount": 372.4
+ },
+ {
+   "name": "Operating Engineers ",
+   "parent": "Construction",
+   "amount": 371.1
+ },
+ {
+   "name": "Cleaners of Vehicles",
+   "parent": "Facilities",
+   "amount": 369.2
+ },
+ {
+   "name": "Computer and Informa",
+   "parent": "Business Info Mgmt",
+   "amount": 367.6
+ },
+ {
+   "name": "Self-Enrichment Educ",
+   "parent": "Teaching",
+   "amount": 354.2
+ },
+ {
+   "name": "Medical and Health S",
+   "parent": "Support",
+   "amount": 352.2
+ },
+ {
+   "name": "Real Estate Sales Ag",
+   "parent": "Sales",
+   "amount": 348.8
+ },
+ {
+   "name": "Industrial Machinery",
+   "parent": "Repair Installation",
+   "amount": 346.9
+ },
+ {
+   "name": "Sales Representative",
+   "parent": "Sales",
+   "amount": 343.6
+ },
+ {
+   "name": "Heating, Air Conditi",
+   "parent": "Maintenance",
+   "amount": 332.9
+ },
+ {
+   "name": "Dental Assistants",
+   "parent": "Therapeutic",
+   "amount": 332
+ },
+ {
+   "name": "Production, Planning",
+   "parent": "QA",
+   "amount": 329.4
+ },
+ {
+   "name": "Firefighters",
+   "parent": "Emergency Svcs",
+   "amount": 327.3
+ },
+ {
+   "name": "Loan Officers",
+   "parent": "Banking",
+   "amount": 318.6
+ },
+ {
+   "name": "Child, Family, and S",
+   "parent": "Family Svcs",
+   "amount": 317.6
+ },
+ {
+   "name": "Property, Real Estat",
+   "parent": "Marketing Mgmt",
+   "amount": 317.3
+ },
+ {
+   "name": "Postal Service Mail ",
+   "parent": "Admin Support",
+   "amount": 316.7
+ },
+ {
+   "name": "Pharmacists",
+   "parent": "Therapeutic",
+   "amount": 312.5
+ },
+ {
+   "name": "Claims Adjusters, Ex",
+   "parent": "Insurance",
+   "amount": 311.1
+ },
+ {
+   "name": "Purchasing Agents, E",
+   "parent": "Process Dvlpmt",
+   "amount": 309.4
+ },
+ {
+   "name": "Chief Executives",
+   "parent": "General Mgmt",
+   "amount": 308.9
+ },
+ {
+   "name": "Food Service Manager",
+   "parent": "Restaurants",
+   "amount": 308.7
+ },
+ {
+   "name": "Insurance Claims and",
+   "parent": "Insurance",
+   "amount": 308.5
+ },
+ {
+   "name": "Bill and Account Col",
+   "parent": "Banking",
+   "amount": 305.7
+ },
+ {
+   "name": "Taxi Drivers and Cha",
+   "parent": "Transport Ops",
+   "amount": 305.1
+ },
+ {
+   "name": "Civil Engineers",
+   "parent": "Design",
+   "amount": 303.5
+ },
+ {
+   "name": "Amusement and Recrea",
+   "parent": "Recreation",
+   "amount": 300
+ },
+ {
+   "name": "Fitness Trainers and",
+   "parent": "Personal Care",
+   "amount": 299.2
+ },
+ {
+   "name": "Financial Analysts",
+   "parent": "Business Finance",
+   "amount": 296.1
+ },
+ {
+   "name": "Computer Programmers",
+   "parent": "Programming",
+   "amount": 294.9
+ },
+ {
+   "name": "Educational, Guidanc",
+   "parent": "Professional Support",
+   "amount": 291.7
+ },
+ {
+   "name": "Mechanical Engineers",
+   "parent": "Engineering",
+   "amount": 288.8
+ },
+ {
+   "name": "Compliance Officers",
+   "parent": "Governance",
+   "amount": 288.3
+ },
+ {
+   "name": "Computer Occupations",
+   "parent": "Info Support",
+   "amount": 287.2
+ },
+ {
+   "name": "Paralegals and Legal",
+   "parent": "Legal",
+   "amount": 285.6
+ },
+ {
+   "name": "Training and Develop",
+   "parent": "HR Mgmt",
+   "amount": 282.8
+ },
+ {
+   "name": "Administrative Servi",
+   "parent": "Ops Mgmt",
+   "amount": 281.7
+ },
+ {
+   "name": "Bus and Truck Mechan",
+   "parent": "Facilities",
+   "amount": 278.8
+ },
+ {
+   "name": "Coaches and Scouts",
+   "parent": "Teaching",
+   "amount": 276.1
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Personal Care",
+   "amount": 276.1
+ },
+ {
+   "name": "Personal Financial A",
+   "parent": "Securities",
+   "amount": 271.9
+ },
+ {
+   "name": "Farmworkers, Farm, R",
+   "parent": "Animal Systems",
+   "amount": 268.1
+ },
+ {
+   "name": "Graphic Designers",
+   "parent": "Visual Arts",
+   "amount": 266.3
+ },
+ {
+   "name": "Food Servers, Nonres",
+   "parent": "Restaurants",
+   "amount": 263.8
+ },
+ {
+   "name": "Production Workers, ",
+   "parent": "Production",
+   "amount": 263.5
+ },
+ {
+   "name": "Public Relations Spe",
+   "parent": "Comms",
+   "amount": 259.6
+ },
+ {
+   "name": "Industrial Engineers",
+   "parent": "Engineering",
+   "amount": 257.9
+ },
+ {
+   "name": "Hotel, Motel, and Re",
+   "parent": "Lodging",
+   "amount": 252.6
+ },
+ {
+   "name": "Parts Salespersons",
+   "parent": "Sales",
+   "amount": 251.9
+ },
+ {
+   "name": "Education Administra",
+   "parent": "Administration",
+   "amount": 251.3
+ },
+ {
+   "name": "Emergency Medical Te",
+   "parent": "Emergency Svcs",
+   "amount": 248
+ },
+ {
+   "name": "Clergy",
+   "parent": "Family Svcs",
+   "amount": 243.9
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Lodging",
+   "amount": 243.5
+ },
+ {
+   "name": "Office and Administr",
+   "parent": "Admin Support",
+   "amount": 243.2
+ },
+ {
+   "name": "Nonfarm Animal Caret",
+   "parent": "Animal Systems",
+   "amount": 241.5
+ },
+ {
+   "name": "Physical Therapists",
+   "parent": "Therapeutic",
+   "amount": 239.8
+ },
+ {
+   "name": "Telecommunications E",
+   "parent": "Telecomm",
+   "amount": 237.6
+ },
+ {
+   "name": "Postsecondary Teache",
+   "parent": "Teaching",
+   "amount": 236.5
+ },
+ {
+   "name": "Health Specialties T",
+   "parent": "Teaching",
+   "amount": 233.5
+ },
+ {
+   "name": "Assemblers and Fabri",
+   "parent": "Production",
+   "amount": 232.4
+ },
+ {
+   "name": "Loan Interviewers an",
+   "parent": "Banking",
+   "amount": 229.8
+ },
+ {
+   "name": "Laundry and Dry-Clea",
+   "parent": "Personal Care",
+   "amount": 220.1
+ },
+ {
+   "name": "Electrical and Elect",
+   "parent": "Production",
+   "amount": 218.9
+ },
+ {
+   "name": "Marketing Managers",
+   "parent": "Marketing Mgmt",
+   "amount": 218.3
+ },
+ {
+   "name": "Cost Estimators",
+   "parent": "Design",
+   "amount": 217.9
+ },
+ {
+   "name": "Telemarketers",
+   "parent": "Sales",
+   "amount": 216.6
+ },
+ {
+   "name": "Dental Hygienists",
+   "parent": "Therapeutic",
+   "amount": 207.9
+ },
+ {
+   "name": "Medical Records and ",
+   "parent": "Health Informatics",
+   "amount": 206.3
+ },
+ {
+   "name": "Radiologic Technolog",
+   "parent": "Diagnostics",
+   "amount": 205.2
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Transport Ops",
+   "amount": 204.2
+ },
+ {
+   "name": "Data Entry Keyers",
+   "parent": "Admin Support",
+   "amount": 203.8
+ },
+ {
+   "name": "Dispatchers, Except ",
+   "parent": "Planning Mgmt",
+   "amount": 201.7
+ },
+ {
+   "name": "Computer Network Sup",
+   "parent": "Networks",
+   "amount": 198.8
+ },
+ {
+   "name": "Interviewers, Except",
+   "parent": "Admin Support",
+   "amount": 194.7
+ },
+ {
+   "name": "Legal Secretaries",
+   "parent": "Legal",
+   "amount": 194.7
+ },
+ {
+   "name": "Cutting, Punching, a",
+   "parent": "Production",
+   "amount": 192.7
+ },
+ {
+   "name": "Bakers",
+   "parent": "Restaurants",
+   "amount": 191
+ },
+ {
+   "name": "Special Education Te",
+   "parent": "Teaching",
+   "amount": 188.9
+ },
+ {
+   "name": "Electrical Engineers",
+   "parent": "Engineering",
+   "amount": 188.3
+ },
+ {
+   "name": "Cooks, Short Order",
+   "parent": "Restaurants",
+   "amount": 185.9
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Transport Ops",
+   "amount": 184.4
+ },
+ {
+   "name": "Education Administra",
+   "parent": "Administration",
+   "amount": 180.1
+ },
+ {
+   "name": "Architectural and En",
+   "parent": "Engineering",
+   "amount": 180.1
+ },
+ {
+   "name": "Bus Drivers, Transit",
+   "parent": "Transport Ops",
+   "amount": 179.3
+ },
+ {
+   "name": "Order Clerks",
+   "parent": "Admin Support",
+   "amount": 179
+ },
+ {
+   "name": "Cement Masons and Co",
+   "parent": "Construction",
+   "amount": 178.9
+ },
+ {
+   "name": "Printing Press Opera",
+   "parent": "Printing",
+   "amount": 178.7
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Maintenance",
+   "amount": 178.3
+ },
+ {
+   "name": "Information and Reco",
+   "parent": "Admin Support",
+   "amount": 178.1
+ },
+ {
+   "name": "Healthcare Social Wo",
+   "parent": "Family Svcs",
+   "amount": 176.5
+ },
+ {
+   "name": "Installation, Mainte",
+   "parent": "Repair Installation",
+   "amount": 175.8
+ },
+ {
+   "name": "Musicians and Singer",
+   "parent": "Performing Arts",
+   "amount": 172.4
+ },
+ {
+   "name": "Medical and Clinical",
+   "parent": "Diagnostics",
+   "amount": 171.4
+ },
+ {
+   "name": "Industrial Productio",
+   "parent": "Ops Mgmt",
+   "amount": 170.6
+ },
+ {
+   "name": "Graduate Teaching As",
+   "parent": "Teaching",
+   "amount": 168.3
+ },
+ {
+   "name": "Payroll and Timekeep",
+   "parent": "Admin Support",
+   "amount": 166.3
+ },
+ {
+   "name": "Medical and Clinical",
+   "parent": "Diagnostics",
+   "amount": 164.2
+ },
+ {
+   "name": "Instructional Coordi",
+   "parent": "Professional Support",
+   "amount": 163.2
+ },
+ {
+   "name": "Web Developers",
+   "parent": "Web Comms",
+   "amount": 162.9
+ },
+ {
+   "name": "Computer Network Arc",
+   "parent": "Networks",
+   "amount": 162.7
+ },
+ {
+   "name": "Automotive Body and ",
+   "parent": "Facilities",
+   "amount": 160.4
+ },
+ {
+   "name": "Massage Therapists",
+   "parent": "Personal Care",
+   "amount": 160.3
+ },
+ {
+   "name": "Mental Health Counse",
+   "parent": "Counseling",
+   "amount": 157.7
+ },
+ {
+   "name": "Meat, Poultry, and F",
+   "parent": "Production",
+   "amount": 156.4
+ },
+ {
+   "name": "Nurse Practitioners",
+   "parent": "Therapeutic",
+   "amount": 155.5
+ },
+ {
+   "name": "Kindergarten Teacher",
+   "parent": "Teaching",
+   "amount": 154.4
+ },
+ {
+   "name": "Sewing Machine Opera",
+   "parent": "Production",
+   "amount": 153.9
+ },
+ {
+   "name": "Food Batchmakers",
+   "parent": "Production",
+   "amount": 153.7
+ },
+ {
+   "name": "Lifeguards, Ski Patr",
+   "parent": "Security",
+   "amount": 152.1
+ },
+ {
+   "name": "Parking Lot Attendan",
+   "parent": "Sales and Service",
+   "amount": 151.6
+ },
+ {
+   "name": "Reservation and Tran",
+   "parent": "Travel",
+   "amount": 150.1
+ },
+ {
+   "name": "Advertising Sales Ag",
+   "parent": "Sales",
+   "amount": 149.9
+ },
+ {
+   "name": "Highway Maintenance ",
+   "parent": "Maintenance",
+   "amount": 149.9
+ },
+ {
+   "name": "Logisticians",
+   "parent": "Planning Mgmt",
+   "amount": 148.7
+ },
+ {
+   "name": "Clinical, Counseling",
+   "parent": "Counseling",
+   "amount": 147.5
+ },
+ {
+   "name": "Social and Community",
+   "parent": "Family Svcs",
+   "amount": 147.3
+ },
+ {
+   "name": "Photographers",
+   "parent": "Journalism",
+   "amount": 147.3
+ },
+ {
+   "name": "Directors, Religious",
+   "parent": "Family Svcs",
+   "amount": 147.1
+ },
+ {
+   "name": "Chefs and Head Cooks",
+   "parent": "Restaurants",
+   "amount": 146.5
+ },
+ {
+   "name": "Roofers",
+   "parent": "Construction",
+   "amount": 146.2
+ },
+ {
+   "name": "Computer-Controlled ",
+   "parent": "Production",
+   "amount": 145.7
+ },
+ {
+   "name": "Molding, Coremaking,",
+   "parent": "Production",
+   "amount": 145.4
+ },
+ {
+   "name": "Speech-Language Path",
+   "parent": "Therapeutic",
+   "amount": 145.1
+ },
+ {
+   "name": "Eligibility Intervie",
+   "parent": "Public Mgmt",
+   "amount": 143.1
+ },
+ {
+   "name": "Human Resources Assi",
+   "parent": "Admin Support",
+   "amount": 141.5
+ },
+ {
+   "name": "Merchandise Displaye",
+   "parent": "Merchandising",
+   "amount": 141.4
+ },
+ {
+   "name": "Sheet Metal Workers",
+   "parent": "Construction",
+   "amount": 138.9
+ },
+ {
+   "name": "Librarians",
+   "parent": "Professional Support",
+   "amount": 138.2
+ },
+ {
+   "name": "Electrical and Elect",
+   "parent": "Process Dvlpmt",
+   "amount": 137
+ },
+ {
+   "name": "Electronics Engineer",
+   "parent": "Engineering",
+   "amount": 136.3
+ },
+ {
+   "name": "Human Resources Mana",
+   "parent": "HR Mgmt",
+   "amount": 136.1
+ },
+ {
+   "name": "Refuse and Recyclabl",
+   "parent": "Enviro Svcs",
+   "amount": 136
+ },
+ {
+   "name": "Financial Specialist",
+   "parent": "Securities",
+   "amount": 135.9
+ },
+ {
+   "name": "Butchers and Meat Cu",
+   "parent": "Production",
+   "amount": 135.7
+ },
+ {
+   "name": "Court, Municipal, an",
+   "parent": "Public Mgmt",
+   "amount": 135.5
+ },
+ {
+   "name": "File Clerks",
+   "parent": "Admin Support",
+   "amount": 135
+ },
+ {
+   "name": "Family and General P",
+   "parent": "Therapeutic",
+   "amount": 134.8
+ },
+ {
+   "name": "Producers and Direct",
+   "parent": "Performing Arts",
+   "amount": 134.7
+ },
+ {
+   "name": "Protective Service W",
+   "parent": "Security",
+   "amount": 133.8
+ },
+ {
+   "name": "Dentists, General",
+   "parent": "Therapeutic",
+   "amount": 132.8
+ },
+ {
+   "name": "Engineers, All Other",
+   "parent": "Engineering",
+   "amount": 132.5
+ },
+ {
+   "name": "Aircraft Mechanics a",
+   "parent": "Facilities",
+   "amount": 132
+ },
+ {
+   "name": "Special Education Te",
+   "parent": "Teaching",
+   "amount": 131.9
+ },
+ {
+   "name": "Writers and Authors",
+   "parent": "Journalism",
+   "amount": 131.2
+ },
+ {
+   "name": "Mixing and Blending ",
+   "parent": "Production",
+   "amount": 131
+ },
+ {
+   "name": "Occupational Therapi",
+   "parent": "Therapeutic",
+   "amount": 130.4
+ },
+ {
+   "name": "Respiratory Therapis",
+   "parent": "Therapeutic",
+   "amount": 130.2
+ },
+ {
+   "name": "Architects, Except L",
+   "parent": "Design",
+   "amount": 128.8
+ },
+ {
+   "name": "Vocational Education",
+   "parent": "Teaching",
+   "amount": 128
+ },
+ {
+   "name": "Health Technologists",
+   "parent": "Diagnostics",
+   "amount": 127.8
+ },
+ {
+   "name": "Editors",
+   "parent": "Journalism",
+   "amount": 127.4
+ },
+ {
+   "name": "Mobile Heavy Equipme",
+   "parent": "Facilities",
+   "amount": 127.4
+ },
+ {
+   "name": "Manicurists and Pedi",
+   "parent": "Personal Care",
+   "amount": 126.3
+ },
+ {
+   "name": "Mental Health and Su",
+   "parent": "Counseling",
+   "amount": 123.9
+ },
+ {
+   "name": "Wholesale and Retail",
+   "parent": "Merchandising",
+   "amount": 123.3
+ },
+ {
+   "name": "Phlebotomists",
+   "parent": "Support",
+   "amount": 122.7
+ },
+ {
+   "name": "Art, Drama, and Musi",
+   "parent": "Teaching",
+   "amount": 122.5
+ },
+ {
+   "name": "Electrical Power-Lin",
+   "parent": "Maintenance",
+   "amount": 120.9
+ },
+ {
+   "name": "Helpers--Installatio",
+   "parent": "Maintenance",
+   "amount": 120.2
+ },
+ {
+   "name": "Medical Scientists, ",
+   "parent": "Biotech",
+   "amount": 120
+ },
+ {
+   "name": "Database Administrat",
+   "parent": "Networks",
+   "amount": 119.5
+ },
+ {
+   "name": "Drywall and Ceiling ",
+   "parent": "Construction",
+   "amount": 119.5
+ },
+ {
+   "name": "Computer, Automated ",
+   "parent": "Repair Installation",
+   "amount": 119.5
+ },
+ {
+   "name": "Rehabilitation Couns",
+   "parent": "Counseling",
+   "amount": 119.3
+ },
+ {
+   "name": "Water and Wastewater",
+   "parent": "Enviro Svcs",
+   "amount": 119.2
+ },
+ {
+   "name": "Residential Advisors",
+   "parent": "Personal Care",
+   "amount": 118.8
+ },
+ {
+   "name": "Multiple Machine Too",
+   "parent": "Production",
+   "amount": 117.8
+ },
+ {
+   "name": "Ushers, Lobby Attend",
+   "parent": "Recreation",
+   "amount": 117.7
+ },
+ {
+   "name": "Meeting, Convention,",
+   "parent": "Ops Mgmt",
+   "amount": 116.7
+ },
+ {
+   "name": "Flight Attendants",
+   "parent": "Transport Ops",
+   "amount": 116.6
+ },
+ {
+   "name": "Transportation, Stor",
+   "parent": "Planning Mgmt",
+   "amount": 115.5
+ },
+ {
+   "name": "Operations Research ",
+   "parent": "Ops Mgmt",
+   "amount": 114
+ },
+ {
+   "name": "Education, Training,",
+   "parent": "Teaching",
+   "amount": 112.7
+ },
+ {
+   "name": "Tire Repairers and C",
+   "parent": "Facilities",
+   "amount": 111.7
+ },
+ {
+   "name": "Detectives and Crimi",
+   "parent": "Law Enforcement",
+   "amount": 110.9
+ },
+ {
+   "name": "Automotive and Water",
+   "parent": "Facilities",
+   "amount": 110
+ },
+ {
+   "name": "Cabinetmakers and Be",
+   "parent": "Production",
+   "amount": 109.3
+ },
+ {
+   "name": "Surgical Technologis",
+   "parent": "Therapeutic",
+   "amount": 107.7
+ },
+ {
+   "name": "Postal Service Mail ",
+   "parent": "Admin Support",
+   "amount": 106.7
+ },
+ {
+   "name": "Physician Assistants",
+   "parent": "Therapeutic",
+   "amount": 106.2
+ },
+ {
+   "name": "Telecommunications L",
+   "parent": "Telecomm",
+   "amount": 106.1
+ },
+ {
+   "name": "Construction and Bui",
+   "parent": "Regulation",
+   "amount": 105.1
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Law Enforcement",
+   "amount": 104.7
+ },
+ {
+   "name": "Library Assistants, ",
+   "parent": "Admin Support",
+   "amount": 104.3
+ },
+ {
+   "name": "Business Teachers, P",
+   "parent": "Teaching",
+   "amount": 104.2
+ },
+ {
+   "name": "Insurance Underwrite",
+   "parent": "Insurance",
+   "amount": 104.1
+ },
+ {
+   "name": "Substance Abuse and ",
+   "parent": "Counseling",
+   "amount": 102.4
+ },
+ {
+   "name": "Veterinary Technolog",
+   "parent": "Diagnostics",
+   "amount": 102
+ },
+ {
+   "name": "Community and Social",
+   "parent": "Family Svcs",
+   "amount": 100.3
+ },
+ {
+   "name": "Information Security",
+   "parent": "Networks",
+   "amount": 100
+ },
+ {
+   "name": "Architectural and Ci",
+   "parent": "Design",
+   "amount": 99.6
+ },
+ {
+   "name": "Library Technicians",
+   "parent": "Professional Support",
+   "amount": 99.2
+ },
+ {
+   "name": "Police, Fire, and Am",
+   "parent": "Emergency Svcs",
+   "amount": 98.6
+ },
+ {
+   "name": "Healthcare Support W",
+   "parent": "Support",
+   "amount": 97.3
+ },
+ {
+   "name": "Gaming Dealers",
+   "parent": "Recreation",
+   "amount": 96.9
+ },
+ {
+   "name": "Tax Preparers",
+   "parent": "Business Finance",
+   "amount": 95.9
+ },
+ {
+   "name": "Sales and Related Wo",
+   "parent": "Sales",
+   "amount": 95.9
+ },
+ {
+   "name": "Mail Clerks and Mail",
+   "parent": "Admin Support",
+   "amount": 95.5
+ },
+ {
+   "name": "Real Estate Brokers",
+   "parent": "Sales",
+   "amount": 95.3
+ },
+ {
+   "name": "Couriers and Messeng",
+   "parent": "Transport Ops",
+   "amount": 95
+ },
+ {
+   "name": "Demonstrators and Pr",
+   "parent": "Sales",
+   "amount": 94.7
+ },
+ {
+   "name": "Paper Goods Machine ",
+   "parent": "Production",
+   "amount": 94.6
+ },
+ {
+   "name": "Switchboard Operator",
+   "parent": "Admin Support",
+   "amount": 93.2
+ },
+ {
+   "name": "Probation Officers a",
+   "parent": "Corrections",
+   "amount": 91.3
+ },
+ {
+   "name": "Brickmasons and Bloc",
+   "parent": "Construction",
+   "amount": 91.1
+ },
+ {
+   "name": "Fundraisers",
+   "parent": "Ops Mgmt",
+   "amount": 90.4
+ },
+ {
+   "name": "Art Directors",
+   "parent": "Visual Arts",
+   "amount": 90.3
+ },
+ {
+   "name": "Coating, Painting, a",
+   "parent": "Production",
+   "amount": 89.9
+ },
+ {
+   "name": "Cargo and Freight Ag",
+   "parent": "Sales and Service",
+   "amount": 89.8
+ },
+ {
+   "name": "Maintenance Workers,",
+   "parent": "Repair Installation",
+   "amount": 89.7
+ },
+ {
+   "name": "Environmental Scient",
+   "parent": "Science",
+   "amount": 89.5
+ },
+ {
+   "name": "Special Education Te",
+   "parent": "Teaching",
+   "amount": 89.3
+ },
+ {
+   "name": "Personal Care and Se",
+   "parent": "Personal Care",
+   "amount": 88.9
+ },
+ {
+   "name": "Chemists",
+   "parent": "Science",
+   "amount": 88.3
+ },
+ {
+   "name": "Physical Therapist A",
+   "parent": "Therapeutic",
+   "amount": 88.3
+ },
+ {
+   "name": "Machine Feeders and ",
+   "parent": "Production",
+   "amount": 87.7
+ },
+ {
+   "name": "English Language and",
+   "parent": "Teaching",
+   "amount": 84.6
+ },
+ {
+   "name": "Compensation, Benefi",
+   "parent": "HR Mgmt",
+   "amount": 84.2
+ },
+ {
+   "name": "Airline Pilots, Copi",
+   "parent": "Transport Ops",
+   "amount": 84
+ },
+ {
+   "name": "Veterinary Assistant",
+   "parent": "Support",
+   "amount": 83.8
+ },
+ {
+   "name": "Occupational Health ",
+   "parent": "Regulation",
+   "amount": 83.7
+ },
+ {
+   "name": "Audio and Video Equi",
+   "parent": "Journalism",
+   "amount": 83.3
+ },
+ {
+   "name": "Slaughterers and Mea",
+   "parent": "Production",
+   "amount": 82.5
+ },
+ {
+   "name": "Door-To-Door Sales W",
+   "parent": "Sales",
+   "amount": 82.4
+ },
+ {
+   "name": "Biological Technicia",
+   "parent": "Plants",
+   "amount": 82.1
+ },
+ {
+   "name": "Travel Agents",
+   "parent": "Travel",
+   "amount": 81.7
+ },
+ {
+   "name": "Labor Relations Spec",
+   "parent": "HR Mgmt",
+   "amount": 81.1
+ },
+ {
+   "name": "Appraisers and Asses",
+   "parent": "Taxation",
+   "amount": 80.8
+ },
+ {
+   "name": "Veterinarians",
+   "parent": "Therapeutic",
+   "amount": 79.6
+ },
+ {
+   "name": "Postal Service Clerk",
+   "parent": "Admin Support",
+   "amount": 79
+ },
+ {
+   "name": "Pest Control Workers",
+   "parent": "Enviro Svcs",
+   "amount": 78.9
+ },
+ {
+   "name": "Career/Technical Edu",
+   "parent": "Teaching",
+   "amount": 78.7
+ },
+ {
+   "name": "Opticians, Dispensin",
+   "parent": "Therapeutic",
+   "amount": 77.6
+ },
+ {
+   "name": "Woodworking Machine ",
+   "parent": "Production",
+   "amount": 77.1
+ },
+ {
+   "name": "Structural Metal Fab",
+   "parent": "Construction",
+   "amount": 77
+ },
+ {
+   "name": "Engineering Technici",
+   "parent": "Process Dvlpmt",
+   "amount": 76.8
+ },
+ {
+   "name": "Grinding, Lapping, P",
+   "parent": "Production",
+   "amount": 76.2
+ },
+ {
+   "name": "Life, Physical, and ",
+   "parent": "Science",
+   "amount": 76.1
+ },
+ {
+   "name": "Weighers, Measurers,",
+   "parent": "QA",
+   "amount": 75.9
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Security",
+   "amount": 75.2
+ },
+ {
+   "name": "Sales Engineers",
+   "parent": "Sales",
+   "amount": 74.9
+ },
+ {
+   "name": "Procurement Clerks",
+   "parent": "Admin Support",
+   "amount": 74.9
+ },
+ {
+   "name": "Word Processors and ",
+   "parent": "Admin Support",
+   "amount": 74.9
+ },
+ {
+   "name": "Music Directors and ",
+   "parent": "Performing Arts",
+   "amount": 74.8
+ },
+ {
+   "name": "Civil Engineering Te",
+   "parent": "Design",
+   "amount": 74.5
+ },
+ {
+   "name": "Education Teachers, ",
+   "parent": "Teaching",
+   "amount": 74.5
+ },
+ {
+   "name": "Crossing Guards",
+   "parent": "Security",
+   "amount": 74.3
+ },
+ {
+   "name": "Chemical Equipment O",
+   "parent": "Production",
+   "amount": 74.1
+ },
+ {
+   "name": "Purchasing Managers",
+   "parent": "Ops Mgmt",
+   "amount": 73.9
+ },
+ {
+   "name": "Credit Analysts",
+   "parent": "Banking",
+   "amount": 73.8
+ },
+ {
+   "name": "Multimedia Artists a",
+   "parent": "Visual Arts",
+   "amount": 73.7
+ },
+ {
+   "name": "Computer Hardware En",
+   "parent": "Engineering",
+   "amount": 73.6
+ },
+ {
+   "name": "Psychiatric Aides",
+   "parent": "Therapeutic",
+   "amount": 73.6
+ },
+ {
+   "name": "Public Relations and",
+   "parent": "Marketing Mgmt",
+   "amount": 73.5
+ },
+ {
+   "name": "Helpers--Electrician",
+   "parent": "Construction",
+   "amount": 73.2
+ },
+ {
+   "name": "Tool and Die Makers",
+   "parent": "Production",
+   "amount": 72.5
+ },
+ {
+   "name": "Security and Fire Al",
+   "parent": "Repair Installation",
+   "amount": 72.3
+ },
+ {
+   "name": "Extruding and Drawin",
+   "parent": "Production",
+   "amount": 72.3
+ },
+ {
+   "name": "Extruding, Forming, ",
+   "parent": "Production",
+   "amount": 71.4
+ },
+ {
+   "name": "Structural Iron and ",
+   "parent": "Construction",
+   "amount": 70.2
+ },
+ {
+   "name": "Aerospace Engineers",
+   "parent": "Engineering",
+   "amount": 69.6
+ },
+ {
+   "name": "Title Examiners, Abs",
+   "parent": "Legal",
+   "amount": 69
+ },
+ {
+   "name": "Electrical and Elect",
+   "parent": "Repair Installation",
+   "amount": 68.3
+ },
+ {
+   "name": "Adult Basic and Seco",
+   "parent": "Teaching",
+   "amount": 68.2
+ },
+ {
+   "name": "Interpreters and Tra",
+   "parent": "Professional Support",
+   "amount": 68.2
+ },
+ {
+   "name": "Dietitians and Nutri",
+   "parent": "Therapeutic",
+   "amount": 68
+ },
+ {
+   "name": "Nursing Instructors ",
+   "parent": "Teaching",
+   "amount": 67.9
+ },
+ {
+   "name": "Chemical Technicians",
+   "parent": "Process Dvlpmt",
+   "amount": 67.3
+ },
+ {
+   "name": "Diagnostic Medical S",
+   "parent": "Diagnostics",
+   "amount": 67.3
+ },
+ {
+   "name": "Interior Designers",
+   "parent": "Design",
+   "amount": 66.5
+ },
+ {
+   "name": "Psychiatric Technici",
+   "parent": "Therapeutic",
+   "amount": 66.1
+ },
+ {
+   "name": "Mechanical Drafters",
+   "parent": "Process Dvlpmt",
+   "amount": 64.8
+ },
+ {
+   "name": "Social Workers, All ",
+   "parent": "Family Svcs",
+   "amount": 64
+ },
+ {
+   "name": "Industrial Engineeri",
+   "parent": "Process Dvlpmt",
+   "amount": 63.9
+ },
+ {
+   "name": "Agricultural Equipme",
+   "parent": "Systems",
+   "amount": 63.9
+ },
+ {
+   "name": "Actors",
+   "parent": "Performing Arts",
+   "amount": 63.8
+ },
+ {
+   "name": "Cutting and Slicing ",
+   "parent": "Production",
+   "amount": 63.6
+ },
+ {
+   "name": "Biological Science T",
+   "parent": "Teaching",
+   "amount": 62.3
+ },
+ {
+   "name": "Tax Examiners and Co",
+   "parent": "Taxation",
+   "amount": 62.1
+ },
+ {
+   "name": "Education Administra",
+   "parent": "Administration",
+   "amount": 61.8
+ },
+ {
+   "name": "Skincare Specialists",
+   "parent": "Personal Care",
+   "amount": 61.3
+ },
+ {
+   "name": "Health Educators",
+   "parent": "Family Svcs",
+   "amount": 61
+ },
+ {
+   "name": "Mathematical Science",
+   "parent": "Teaching",
+   "amount": 60.9
+ },
+ {
+   "name": "Food Preparation and",
+   "parent": "Restaurants",
+   "amount": 60.9
+ },
+ {
+   "name": "Brokerage Clerks",
+   "parent": "Securities",
+   "amount": 60.4
+ },
+ {
+   "name": "Surveying and Mappin",
+   "parent": "Design",
+   "amount": 60.2
+ },
+ {
+   "name": "Office Machine Opera",
+   "parent": "Admin Support",
+   "amount": 59.9
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Emergency Svcs",
+   "amount": 59.1
+ },
+ {
+   "name": "Budget Analysts",
+   "parent": "Business Finance",
+   "amount": 58.4
+ },
+ {
+   "name": "Tile and Marble Sett",
+   "parent": "Construction",
+   "amount": 58.3
+ },
+ {
+   "name": "Painters, Transporta",
+   "parent": "Production",
+   "amount": 58.1
+ },
+ {
+   "name": "Community Health Wor",
+   "parent": "Family Svcs",
+   "amount": 57.5
+ },
+ {
+   "name": "Medical Transcriptio",
+   "parent": "Health Informatics",
+   "amount": 57.4
+ },
+ {
+   "name": "Natural Sciences Man",
+   "parent": "Natural Resources",
+   "amount": 56.7
+ },
+ {
+   "name": "Health Diagnosing an",
+   "parent": "Therapeutic",
+   "amount": 56.4
+ },
+ {
+   "name": "Barbers",
+   "parent": "Personal Care",
+   "amount": 56.4
+ },
+ {
+   "name": "Motor Vehicle Operat",
+   "parent": "Transport Ops",
+   "amount": 56.2
+ },
+ {
+   "name": "Legislators",
+   "parent": "Governance",
+   "amount": 55.5
+ },
+ {
+   "name": "Helpers--Pipelayers,",
+   "parent": "Construction",
+   "amount": 55.5
+ },
+ {
+   "name": "Floral Designers",
+   "parent": "Visual Arts",
+   "amount": 55
+ },
+ {
+   "name": "Cardiovascular Techn",
+   "parent": "Diagnostics",
+   "amount": 55
+ },
+ {
+   "name": "Animal Trainers",
+   "parent": "Recreation",
+   "amount": 54.9
+ },
+ {
+   "name": "Sawing Machine Sette",
+   "parent": "Production",
+   "amount": 54.8
+ },
+ {
+   "name": "Tree Trimmers and Pr",
+   "parent": "Plants",
+   "amount": 54.5
+ },
+ {
+   "name": "Medical Equipment Pr",
+   "parent": "Support",
+   "amount": 54.2
+ },
+ {
+   "name": "Orderlies",
+   "parent": "Support",
+   "amount": 54
+ },
+ {
+   "name": "Print Binding and Fi",
+   "parent": "Printing",
+   "amount": 54
+ },
+ {
+   "name": "Environmental Engine",
+   "parent": "Enviro Svcs",
+   "amount": 53.8
+ },
+ {
+   "name": "Religious Workers, A",
+   "parent": "Family Svcs",
+   "amount": 53.2
+ },
+ {
+   "name": "Financial Examiners",
+   "parent": "Governance",
+   "amount": 52.5
+ },
+ {
+   "name": "Technical Writers",
+   "parent": "Journalism",
+   "amount": 52.4
+ },
+ {
+   "name": "Physical Therapist A",
+   "parent": "Therapeutic",
+   "amount": 52
+ },
+ {
+   "name": "Paving, Surfacing, a",
+   "parent": "Construction",
+   "amount": 51.9
+ },
+ {
+   "name": "Computer Operators",
+   "parent": "Admin Support",
+   "amount": 51.5
+ },
+ {
+   "name": "Legal Support Worker",
+   "parent": "Legal",
+   "amount": 50.9
+ },
+ {
+   "name": "Excavating and Loadi",
+   "parent": "Construction",
+   "amount": 50.6
+ },
+ {
+   "name": "Glaziers",
+   "parent": "Construction",
+   "amount": 50.1
+ },
+ {
+   "name": "Roustabouts, Oil and",
+   "parent": "Construction",
+   "amount": 50
+ },
+ {
+   "name": "Internists, General",
+   "parent": "Therapeutic",
+   "amount": 49.8
+ },
+ {
+   "name": "Welding, Soldering, ",
+   "parent": "Production",
+   "amount": 49.2
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Food Products",
+   "amount": 48.7
+ },
+ {
+   "name": "Lodging Managers",
+   "parent": "Lodging",
+   "amount": 47.8
+ },
+ {
+   "name": "Engineering Teachers",
+   "parent": "Teaching",
+   "amount": 47.6
+ },
+ {
+   "name": "Chiropractors",
+   "parent": "Therapeutic",
+   "amount": 47.4
+ },
+ {
+   "name": "Separating, Filterin",
+   "parent": "Production",
+   "amount": 47.2
+ },
+ {
+   "name": "Medical Equipment Re",
+   "parent": "Repair Installation",
+   "amount": 47.1
+ },
+ {
+   "name": "Psychology Teachers,",
+   "parent": "Teaching",
+   "amount": 46.9
+ },
+ {
+   "name": "Control and Valve In",
+   "parent": "Maintenance",
+   "amount": 46.9
+ },
+ {
+   "name": "Home Appliance Repai",
+   "parent": "Repair Installation",
+   "amount": 46.6
+ },
+ {
+   "name": "Food Processing Work",
+   "parent": "Production",
+   "amount": 46.4
+ },
+ {
+   "name": "Hazardous Materials ",
+   "parent": "Enviro Svcs",
+   "amount": 46.2
+ },
+ {
+   "name": "Mechanical Engineeri",
+   "parent": "Process Dvlpmt",
+   "amount": 46.1
+ },
+ {
+   "name": "Transportation Secur",
+   "parent": "National Security",
+   "amount": 46.1
+ },
+ {
+   "name": "Crane and Tower Oper",
+   "parent": "Construction",
+   "amount": 46
+ },
+ {
+   "name": "Tour Guides and Esco",
+   "parent": "Travel",
+   "amount": 45.8
+ },
+ {
+   "name": "Electromechanical Eq",
+   "parent": "Production",
+   "amount": 45.7
+ },
+ {
+   "name": "First-Line Superviso",
+   "parent": "Corrections",
+   "amount": 45.2
+ },
+ {
+   "name": "Baggage Porters and ",
+   "parent": "Lodging",
+   "amount": 45.1
+ },
+ {
+   "name": "Surgeons",
+   "parent": "Therapeutic",
+   "amount": 45
+ },
+ {
+   "name": "Pressers, Textile, G",
+   "parent": "Personal Care",
+   "amount": 45
+ },
+ {
+   "name": "Surveyors",
+   "parent": "Design",
+   "amount": 44.8
+ },
+ {
+   "name": "Reporters and Corres",
+   "parent": "Journalism",
+   "amount": 44.7
+ },
+ {
+   "name": "Ophthalmic Medical T",
+   "parent": "Therapeutic",
+   "amount": 44.5
+ },
+ {
+   "name": "Tailors, Dressmakers",
+   "parent": "Personal Care",
+   "amount": 44.3
+ },
+ {
+   "name": "Pipelayers",
+   "parent": "Construction",
+   "amount": 44.1
+ },
+ {
+   "name": "Molders, Shapers, an",
+   "parent": "Production",
+   "amount": 43
+ },
+ {
+   "name": "Graders and Sorters,",
+   "parent": "Food Products",
+   "amount": 42.9
+ },
+ {
+   "name": "Construction and Rel",
+   "parent": "Maintenance",
+   "amount": 42.7
+ },
+ {
+   "name": "Farm Equipment Mecha",
+   "parent": "Systems",
+   "amount": 42.5
+ },
+ {
+   "name": "Social Scientists an",
+   "parent": "Science",
+   "amount": 42.1
+ },
+ {
+   "name": "New Accounts Clerks",
+   "parent": "Admin Support",
+   "amount": 42
+ },
+ {
+   "name": "Nurse Anesthetists",
+   "parent": "Therapeutic",
+   "amount": 41.8
+ },
+ {
+   "name": "Aircraft Structure, ",
+   "parent": "Production",
+   "amount": 41.8
+ },
+ {
+   "name": "Petroleum Pump Syste",
+   "parent": "Production",
+   "amount": 41.8
+ },
+ {
+   "name": "Railroad Conductors ",
+   "parent": "Transport Ops",
+   "amount": 41.8
+ },
+ {
+   "name": "Upholsterers",
+   "parent": "Production",
+   "amount": 41.6
+ },
+ {
+   "name": "Marriage and Family ",
+   "parent": "Counseling",
+   "amount": 41.5
+ },
+ {
+   "name": "Private Detectives a",
+   "parent": "Law Enforcement",
+   "amount": 41.4
+ },
+ {
+   "name": "Service Unit Operato",
+   "parent": "Construction",
+   "amount": 41.4
+ },
+ {
+   "name": "Special Education Te",
+   "parent": "Teaching",
+   "amount": 41.3
+ },
+ {
+   "name": "Radio and Television",
+   "parent": "Journalism",
+   "amount": 41.3
+ },
+ {
+   "name": "Commercial Pilots",
+   "parent": "Transport Ops",
+   "amount": 40.8
+ },
+ {
+   "name": "Carpet Installers",
+   "parent": "Construction",
+   "amount": 40.4
+ },
+ {
+   "name": "Optometrists",
+   "parent": "Therapeutic",
+   "amount": 40.2
+ },
+ {
+   "name": "Healthcare Practitio",
+   "parent": "Therapeutic",
+   "amount": 40
+ },
+ {
+   "name": "Computer Science Tea",
+   "parent": "Teaching",
+   "amount": 39.7
+ },
+ {
+   "name": "Commercial and Indus",
+   "parent": "Visual Arts",
+   "amount": 39.7
+ },
+ {
+   "name": "Millwrights",
+   "parent": "Maintenance",
+   "amount": 39.5
+ },
+ {
+   "name": "Occupational Therapy",
+   "parent": "Therapeutic",
+   "amount": 39.3
+ },
+ {
+   "name": "Logging Equipment Op",
+   "parent": "Natural Resources",
+   "amount": 39.1
+ },
+ {
+   "name": "Locomotive Engineers",
+   "parent": "Transport Ops",
+   "amount": 38.8
+ },
+ {
+   "name": "Captains, Mates, and",
+   "parent": "Transport Ops",
+   "amount": 38.8
+ },
+ {
+   "name": "Biological Scientist",
+   "parent": "Science",
+   "amount": 38.7
+ },
+ {
+   "name": "Gaming Supervisors",
+   "parent": "Recreation",
+   "amount": 38.5
+ },
+ {
+   "name": "Credit Authorizers, ",
+   "parent": "Banking",
+   "amount": 38.5
+ },
+ {
+   "name": "Education Administra",
+   "parent": "Administration",
+   "amount": 38.4
+ },
+ {
+   "name": "Credit Counselors",
+   "parent": "CHECK",
+   "amount": 38.3
+ },
+ {
+   "name": "Dental Laboratory Te",
+   "parent": "Production",
+   "amount": 38.1
+ },
+ {
+   "name": "Pesticide Handlers, ",
+   "parent": "Plants",
+   "amount": 38
+ },
+ {
+   "name": "Engine and Other Mac",
+   "parent": "Production",
+   "amount": 38
+ },
+ {
+   "name": "Transportation Worke",
+   "parent": "Transport Ops",
+   "amount": 38
+ },
+ {
+   "name": "Jewelers and Preciou",
+   "parent": "Production",
+   "amount": 37.7
+ },
+ {
+   "name": "Outdoor Power Equipm",
+   "parent": "Repair Installation",
+   "amount": 37.6
+ },
+ {
+   "name": "Statisticians",
+   "parent": "Science",
+   "amount": 37.2
+ },
+ {
+   "name": "Food Cooking Machine",
+   "parent": "Production",
+   "amount": 37.2
+ },
+ {
+   "name": "Pharmacy Aides",
+   "parent": "Support",
+   "amount": 36.9
+ },
+ {
+   "name": "Helpers--Carpenters",
+   "parent": "Construction",
+   "amount": 36.7
+ },
+ {
+   "name": "Magnetic Resonance I",
+   "parent": "Diagnostics",
+   "amount": 36.6
+ },
+ {
+   "name": "Financial Clerks, Al",
+   "parent": "Banking",
+   "amount": 36.6
+ },
+ {
+   "name": "Coin, Vending, and A",
+   "parent": "Repair Installation",
+   "amount": 36.6
+ },
+ {
+   "name": "Funeral Attendants",
+   "parent": "Personal Care",
+   "amount": 36.1
+ },
+ {
+   "name": "Power Plant Operator",
+   "parent": "Production",
+   "amount": 36.1
+ },
+ {
+   "name": "Urban and Regional P",
+   "parent": "CHECK",
+   "amount": 36
+ },
+ {
+   "name": "Stationary Engineers",
+   "parent": "Maintenance",
+   "amount": 35.7
+ },
+ {
+   "name": "Plating and Coating ",
+   "parent": "Production",
+   "amount": 35.3
+ },
+ {
+   "name": "Foreign Language and",
+   "parent": "Teaching",
+   "amount": 35
+ },
+ {
+   "name": "Meter Readers, Utili",
+   "parent": "Admin Support",
+   "amount": 34.8
+ },
+ {
+   "name": "Environmental Scienc",
+   "parent": "Enviro Svcs",
+   "amount": 34.6
+ },
+ {
+   "name": "Prepress Technicians",
+   "parent": "Printing",
+   "amount": 34.6
+ },
+ {
+   "name": "Training and Develop",
+   "parent": "HR Mgmt",
+   "amount": 34.5
+ },
+ {
+   "name": "Film and Video Edito",
+   "parent": "Journalism",
+   "amount": 34.2
+ },
+ {
+   "name": "Communications Teach",
+   "parent": "Teaching",
+   "amount": 34.1
+ },
+ {
+   "name": "Social Science Resea",
+   "parent": "Science",
+   "amount": 34
+ },
+ {
+   "name": "Broadcast Technician",
+   "parent": "Journalism",
+   "amount": 34
+ },
+ {
+   "name": "Sailors and Marine O",
+   "parent": "Transport Ops",
+   "amount": 33.8
+ },
+ {
+   "name": "Petroleum Engineers",
+   "parent": "Engineering",
+   "amount": 33.7
+ },
+ {
+   "name": "Lathe and Turning Ma",
+   "parent": "Production",
+   "amount": 33.7
+ },
+ {
+   "name": "Dietetic Technicians",
+   "parent": "Therapeutic",
+   "amount": 33.4
+ },
+ {
+   "name": "Forest and Conservat",
+   "parent": "Natural Resources",
+   "amount": 33.2
+ },
+ {
+   "name": "Chemical Plant and S",
+   "parent": "Production",
+   "amount": 33.2
+ },
+ {
+   "name": "Anesthesiologists",
+   "parent": "Therapeutic",
+   "amount": 33
+ },
+ {
+   "name": "Media and Communicat",
+   "parent": "Journalism",
+   "amount": 32.9
+ },
+ {
+   "name": "Chemical Engineers",
+   "parent": "Engineering",
+   "amount": 32.7
+ },
+ {
+   "name": "Concierges",
+   "parent": "Lodging",
+   "amount": 32.5
+ },
+ {
+   "name": "Geoscientists, Excep",
+   "parent": "Science",
+   "amount": 32
+ },
+ {
+   "name": "Counselors, All Othe",
+   "parent": "Counseling",
+   "amount": 31.8
+ },
+ {
+   "name": "Philosophy and Relig",
+   "parent": "Teaching",
+   "amount": 31.8
+ },
+ {
+   "name": "Electronic Home Ente",
+   "parent": "Repair Installation",
+   "amount": 31.7
+ },
+ {
+   "name": "Biochemists and Biop",
+   "parent": "Science",
+   "amount": 31.5
+ },
+ {
+   "name": "Advertising and Prom",
+   "parent": "Marketing Mgmt",
+   "amount": 31.3
+ },
+ {
+   "name": "Insulation Workers, ",
+   "parent": "Construction",
+   "amount": 30.9
+ },
+ {
+   "name": "Textile Winding, Twi",
+   "parent": "Production",
+   "amount": 30.8
+ },
+ {
+   "name": "Crushing, Grinding, ",
+   "parent": "Production",
+   "amount": 30.2
+ },
+ {
+   "name": "Pediatricians, Gener",
+   "parent": "Therapeutic",
+   "amount": 29.6
+ },
+ {
+   "name": "Special Education Te",
+   "parent": "Teaching",
+   "amount": 29.2
+ },
+ {
+   "name": "Ophthalmic Laborator",
+   "parent": "Production",
+   "amount": 29.1
+ },
+ {
+   "name": "Rolling Machine Sett",
+   "parent": "Production",
+   "amount": 29
+ },
+ {
+   "name": "Morticians, Undertak",
+   "parent": "Personal Care",
+   "amount": 28.7
+ },
+ {
+   "name": "Locksmiths and Safe ",
+   "parent": "Repair Installation",
+   "amount": 28.7
+ },
+ {
+   "name": "Insulation Workers, ",
+   "parent": "Construction",
+   "amount": 28.6
+ },
+ {
+   "name": "Septic Tank Servicer",
+   "parent": "Maintenance",
+   "amount": 28.5
+ },
+ {
+   "name": "Judges, Magistrate J",
+   "parent": "Legal",
+   "amount": 28.4
+ },
+ {
+   "name": "Transportation Inspe",
+   "parent": "Governance",
+   "amount": 28.2
+ },
+ {
+   "name": "Conveyor Operators a",
+   "parent": "Construction",
+   "amount": 28.1
+ },
+ {
+   "name": "Fine Artists, Includ",
+   "parent": "Visual Arts",
+   "amount": 28
+ },
+ {
+   "name": "Computer and Informa",
+   "parent": "Science",
+   "amount": 27.9
+ },
+ {
+   "name": "Athletic Trainers",
+   "parent": "Therapeutic",
+   "amount": 27.8
+ },
+ {
+   "name": "Plasterers and Stucc",
+   "parent": "Construction",
+   "amount": 27.7
+ },
+ {
+   "name": "Agricultural and Foo",
+   "parent": "Food Products",
+   "amount": 27.5
+ },
+ {
+   "name": "Psychiatrists",
+   "parent": "Therapeutic",
+   "amount": 27.5
+ },
+ {
+   "name": "Electrical and Elect",
+   "parent": "Process Dvlpmt",
+   "amount": 27.4
+ },
+ {
+   "name": "Materials Engineers",
+   "parent": "Engineering",
+   "amount": 27
+ },
+ {
+   "name": "History Teachers, Po",
+   "parent": "Teaching",
+   "amount": 26.9
+ },
+ {
+   "name": "Photographic Process",
+   "parent": "Production",
+   "amount": 26.9
+ },
+ {
+   "name": "Entertainers and Per",
+   "parent": "Performing Arts",
+   "amount": 26.7
+ },
+ {
+   "name": "Grinding and Polishi",
+   "parent": "Production",
+   "amount": 26.6
+ },
+ {
+   "name": "Chemistry Teachers, ",
+   "parent": "Teaching",
+   "amount": 26.3
+ },
+ {
+   "name": "Health and Safety En",
+   "parent": "Engineering",
+   "amount": 25.9
+ },
+ {
+   "name": "Funeral Service Mana",
+   "parent": "Personal Care",
+   "amount": 25.7
+ },
+ {
+   "name": "Semiconductor Proces",
+   "parent": "Production",
+   "amount": 25.5
+ },
+ {
+   "name": "Camera Operators, Te",
+   "parent": "Journalism",
+   "amount": 25.1
+ },
+ {
+   "name": "Fence Erectors",
+   "parent": "Construction",
+   "amount": 25.1
+ },
+ {
+   "name": "Computer Numerically",
+   "parent": "Production",
+   "amount": 25.1
+ },
+ {
+   "name": "Cooks, Private House",
+   "parent": "Restaurants",
+   "amount": 25
+ },
+ {
+   "name": "Air Traffic Controll",
+   "parent": "CHECK",
+   "amount": 24.9
+ },
+ {
+   "name": "Landscape Architects",
+   "parent": "Design",
+   "amount": 24.7
+ },
+ {
+   "name": "Material Moving Work",
+   "parent": "Transport Ops",
+   "amount": 24.4
+ },
+ {
+   "name": "Therapists, All Othe",
+   "parent": "Therapeutic",
+   "amount": 24.1
+ },
+ {
+   "name": "Helpers--Brickmasons",
+   "parent": "Construction",
+   "amount": 24.1
+ },
+ {
+   "name": "Fashion Designers",
+   "parent": "Visual Arts",
+   "amount": 23.8
+ },
+ {
+   "name": "Tapers",
+   "parent": "Construction",
+   "amount": 23.7
+ },
+ {
+   "name": "Actuaries",
+   "parent": "Insurance",
+   "amount": 23.6
+ },
+ {
+   "name": "Physical Scientists,",
+   "parent": "Science",
+   "amount": 23.5
+ },
+ {
+   "name": "Gaming Change Person",
+   "parent": "Recreation",
+   "amount": 23.4
+ },
+ {
+   "name": "Electrical and Elect",
+   "parent": "Repair Installation",
+   "amount": 23.4
+ },
+ {
+   "name": "Motorboat Mechanics ",
+   "parent": "Facilities",
+   "amount": 23.4
+ },
+ {
+   "name": "Microbiologists",
+   "parent": "Science",
+   "amount": 23.2
+ },
+ {
+   "name": "Metal Workers and Pl",
+   "parent": "Production",
+   "amount": 23
+ },
+ {
+   "name": "Furniture Finishers",
+   "parent": "Production",
+   "amount": 22.4
+ },
+ {
+   "name": "Conservation Scienti",
+   "parent": "Science",
+   "amount": 22.3
+ },
+ {
+   "name": "Rail Car Repairers",
+   "parent": "Facilities",
+   "amount": 22.3
+ },
+ {
+   "name": "Tire Builders",
+   "parent": "Production",
+   "amount": 22.3
+ },
+ {
+   "name": "Textile Knitting and",
+   "parent": "Production",
+   "amount": 22.2
+ },
+ {
+   "name": "Helpers, Constructio",
+   "parent": "Construction",
+   "amount": 22.1
+ },
+ {
+   "name": "Elevator Installers ",
+   "parent": "Maintenance",
+   "amount": 22.1
+ },
+ {
+   "name": "Furnace, Kiln, Oven,",
+   "parent": "Production",
+   "amount": 21.9
+ },
+ {
+   "name": "Obstetricians and Gy",
+   "parent": "Therapeutic",
+   "amount": 21.7
+ },
+ {
+   "name": "Biomedical Engineers",
+   "parent": "Biotech",
+   "amount": 21.3
+ },
+ {
+   "name": "Economists",
+   "parent": "Science",
+   "amount": 21.3
+ },
+ {
+   "name": "Political Science Te",
+   "parent": "Teaching",
+   "amount": 21.2
+ },
+ {
+   "name": "Law Teachers, Postse",
+   "parent": "Teaching",
+   "amount": 21.2
+ },
+ {
+   "name": "Shampooers",
+   "parent": "Personal Care",
+   "amount": 21.2
+ },
+ {
+   "name": "Umpires, Referees, a",
+   "parent": "Recreation",
+   "amount": 21.1
+ },
+ {
+   "name": "Riggers",
+   "parent": "Construction",
+   "amount": 20.9
+ },
+ {
+   "name": "Recreation and Fitne",
+   "parent": "Teaching",
+   "amount": 20.6
+ },
+ {
+   "name": "Media and Communicat",
+   "parent": "Journalism",
+   "amount": 20.6
+ },
+ {
+   "name": "Mechanical Door Repa",
+   "parent": "Maintenance",
+   "amount": 20.4
+ },
+ {
+   "name": "Extruding and Formin",
+   "parent": "Production",
+   "amount": 20.2
+ },
+ {
+   "name": "Nuclear Medicine Tec",
+   "parent": "Diagnostics",
+   "amount": 20.1
+ },
+ {
+   "name": "Reinforcing Iron and",
+   "parent": "Construction",
+   "amount": 20.1
+ },
+ {
+   "name": "Food and Tobacco Roa",
+   "parent": "Production",
+   "amount": 20.1
+ },
+ {
+   "name": "Soil and Plant Scien",
+   "parent": "Plants",
+   "amount": 19.9
+ },
+ {
+   "name": "Heat Treating Equipm",
+   "parent": "Production",
+   "amount": 19.8
+ },
+ {
+   "name": "Fiberglass Laminator",
+   "parent": "Production",
+   "amount": 19.7
+ },
+ {
+   "name": "Court Reporters",
+   "parent": "Legal",
+   "amount": 19.6
+ },
+ {
+   "name": "Earth Drillers, Exce",
+   "parent": "Construction",
+   "amount": 19.6
+ },
+ {
+   "name": "Automotive Glass Ins",
+   "parent": "Facilities",
+   "amount": 19.6
+ },
+ {
+   "name": "Zoologists and Wildl",
+   "parent": "Natural Resources",
+   "amount": 19.4
+ },
+ {
+   "name": "Railroad Brake, Sign",
+   "parent": "Transport Ops",
+   "amount": 19.3
+ },
+ {
+   "name": "Recreational Therapi",
+   "parent": "Therapeutic",
+   "amount": 19.2
+ },
+ {
+   "name": "Forging Machine Sett",
+   "parent": "Production",
+   "amount": 19.2
+ },
+ {
+   "name": "Agents and Business ",
+   "parent": "Performing Arts",
+   "amount": 19.1
+ },
+ {
+   "name": "Radiation Therapists",
+   "parent": "Therapeutic",
+   "amount": 19.1
+ },
+ {
+   "name": "Gaming Cage Workers",
+   "parent": "Recreation",
+   "amount": 19
+ },
+ {
+   "name": "Grounds Maintenance ",
+   "parent": "Maintenance",
+   "amount": 18.9
+ },
+ {
+   "name": "Stonemasons",
+   "parent": "Construction",
+   "amount": 18.9
+ },
+ {
+   "name": "Bailiffs",
+   "parent": "Security",
+   "amount": 18.6
+ },
+ {
+   "name": "Locker Room, Coatroo",
+   "parent": "Personal Care",
+   "amount": 18.6
+ },
+ {
+   "name": "Transportation Atten",
+   "parent": "Transport Ops",
+   "amount": 18.5
+ },
+ {
+   "name": "Motorcycle Mechanics",
+   "parent": "Facilities",
+   "amount": 18.3
+ },
+ {
+   "name": "Occupational Health ",
+   "parent": "Regulation",
+   "amount": 18.1
+ },
+ {
+   "name": "Physicists",
+   "parent": "Science",
+   "amount": 17.9
+ },
+ {
+   "name": "Sociology Teachers, ",
+   "parent": "Teaching",
+   "amount": 17.9
+ },
+ {
+   "name": "Cooks, All Other",
+   "parent": "Restaurants",
+   "amount": 17.8
+ },
+ {
+   "name": "Nuclear Engineers",
+   "parent": "Engineering",
+   "amount": 17.7
+ },
+ {
+   "name": "Metal-Refining Furna",
+   "parent": "Production",
+   "amount": 17.7
+ },
+ {
+   "name": "Insurance Appraisers",
+   "parent": "Insurance",
+   "amount": 17.6
+ },
+ {
+   "name": "Physics Teachers, Po",
+   "parent": "Teaching",
+   "amount": 17.6
+ },
+ {
+   "name": "Milling and Planing ",
+   "parent": "Production",
+   "amount": 17.6
+ },
+ {
+   "name": "Avionics Technicians",
+   "parent": "Facilities",
+   "amount": 17.5
+ },
+ {
+   "name": "Psychologists, All O",
+   "parent": "Counseling",
+   "amount": 17.4
+ },
+ {
+   "name": "Criminal Justice and",
+   "parent": "Teaching",
+   "amount": 17.3
+ },
+ {
+   "name": "Electric Motor, Powe",
+   "parent": "Repair Installation",
+   "amount": 17.3
+ },
+ {
+   "name": "Gas Plant Operators",
+   "parent": "Production",
+   "amount": 17.3
+ },
+ {
+   "name": "Ambulance Drivers an",
+   "parent": "Transport Ops",
+   "amount": 17.3
+ },
+ {
+   "name": "Boilermakers",
+   "parent": "Maintenance",
+   "amount": 17.2
+ },
+ {
+   "name": "Cleaning, Washing, a",
+   "parent": "Production",
+   "amount": 17.2
+ },
+ {
+   "name": "Environmental Engine",
+   "parent": "Enviro Svcs",
+   "amount": 17
+ },
+ {
+   "name": "Food Scientists and ",
+   "parent": "Food Products",
+   "amount": 17
+ },
+ {
+   "name": "Sound Engineering Te",
+   "parent": "Journalism",
+   "amount": 17
+ },
+ {
+   "name": "Helpers--Extraction ",
+   "parent": "Construction",
+   "amount": 17
+ },
+ {
+   "name": "Adhesive Bonding Mac",
+   "parent": "Production",
+   "amount": 17
+ },
+ {
+   "name": "Rotary Drill Operato",
+   "parent": "Construction",
+   "amount": 16.7
+ },
+ {
+   "name": "Economics Teachers, ",
+   "parent": "Teaching",
+   "amount": 16.5
+ },
+ {
+   "name": "Floor Layers, Except",
+   "parent": "Construction",
+   "amount": 16.3
+ },
+ {
+   "name": "Textile, Apparel, an",
+   "parent": "Production",
+   "amount": 16.3
+ },
+ {
+   "name": "Painting, Coating, a",
+   "parent": "Production",
+   "amount": 16.3
+ },
+ {
+   "name": "Building Cleaning Wo",
+   "parent": "Lodging",
+   "amount": 16.2
+ },
+ {
+   "name": "Drafters, All Other",
+   "parent": "Process Dvlpmt",
+   "amount": 15.9
+ },
+ {
+   "name": "Compensation and Ben",
+   "parent": "HR Mgmt",
+   "amount": 15.8
+ },
+ {
+   "name": "Agricultural Inspect",
+   "parent": "Regulation",
+   "amount": 15.6
+ },
+ {
+   "name": "Forensic Science Tec",
+   "parent": "Law Enforcement",
+   "amount": 15.4
+ },
+ {
+   "name": "Administrative Law J",
+   "parent": "Legal",
+   "amount": 15.4
+ },
+ {
+   "name": "Social Sciences Teac",
+   "parent": "Teaching",
+   "amount": 15.3
+ },
+ {
+   "name": "Exercise Physiologis",
+   "parent": "Therapeutic",
+   "amount": 15.1
+ },
+ {
+   "name": "Geological and Petro",
+   "parent": "Natural Resources",
+   "amount": 15
+ },
+ {
+   "name": "Textile Cutting Mach",
+   "parent": "Production",
+   "amount": 15
+ },
+ {
+   "name": "Medical Appliance Te",
+   "parent": "Repair Installation",
+   "amount": 15
+ },
+ {
+   "name": "Social Work Teachers",
+   "parent": "Teaching",
+   "amount": 14.9
+ },
+ {
+   "name": "Audiologists",
+   "parent": "Therapeutic",
+   "amount": 14.8
+ },
+ {
+   "name": "Cutters and Trimmers",
+   "parent": "Production",
+   "amount": 14.7
+ },
+ {
+   "name": "Survey Researchers",
+   "parent": "Science",
+   "amount": 14.6
+ },
+ {
+   "name": "Set and Exhibit Desi",
+   "parent": "Visual Arts",
+   "amount": 14.6
+ },
+ {
+   "name": "Entertainment Attend",
+   "parent": "Recreation",
+   "amount": 14.6
+ },
+ {
+   "name": "Desktop Publishers",
+   "parent": "Printing",
+   "amount": 14.6
+ },
+ {
+   "name": "Radio, Cellular, and",
+   "parent": "Repair Installation",
+   "amount": 14.5
+ },
+ {
+   "name": "Forest and Conservat",
+   "parent": "Natural Resources",
+   "amount": 14.3
+ },
+ {
+   "name": "Postmasters and Mail",
+   "parent": "Public Mgmt",
+   "amount": 14.2
+ },
+ {
+   "name": "Proofreaders and Cop",
+   "parent": "Printing",
+   "amount": 14.2
+ },
+ {
+   "name": "Coil Winders, Tapers",
+   "parent": "Production",
+   "amount": 14.1
+ },
+ {
+   "name": "Judicial Law Clerks",
+   "parent": "Legal",
+   "amount": 14
+ },
+ {
+   "name": "Rail-Track Laying an",
+   "parent": "Facilities",
+   "amount": 14
+ },
+ {
+   "name": "Electrical and Elect",
+   "parent": "Facilities",
+   "amount": 13.9
+ },
+ {
+   "name": "Electro-Mechanical T",
+   "parent": "Process Dvlpmt",
+   "amount": 13.8
+ },
+ {
+   "name": "Recreational Vehicle",
+   "parent": "Facilities",
+   "amount": 13.8
+ },
+ {
+   "name": "Buyers and Purchasin",
+   "parent": "Agribusiness",
+   "amount": 13.7
+ },
+ {
+   "name": "Dancers",
+   "parent": "Performing Arts",
+   "amount": 13.5
+ },
+ {
+   "name": "Sewers, Hand",
+   "parent": "Production",
+   "amount": 13.5
+ },
+ {
+   "name": "Animal Control Worke",
+   "parent": "Law Enforcement",
+   "amount": 13.4
+ },
+ {
+   "name": "Atmospheric, Earth, ",
+   "parent": "Teaching",
+   "amount": 13.1
+ },
+ {
+   "name": "Artists and Related ",
+   "parent": "Visual Arts",
+   "amount": 12.8
+ },
+ {
+   "name": "Subway and Streetcar",
+   "parent": "Transport Ops",
+   "amount": 12.8
+ },
+ {
+   "name": "Career/Technical Edu",
+   "parent": "Teaching",
+   "amount": 12.7
+ },
+ {
+   "name": "Cartographers and Ph",
+   "parent": "Science",
+   "amount": 12.6
+ },
+ {
+   "name": "Agricultural Science",
+   "parent": "Teaching",
+   "amount": 12.6
+ },
+ {
+   "name": "Precision Instrument",
+   "parent": "Repair Installation",
+   "amount": 12.6
+ },
+ {
+   "name": "Craft Artists",
+   "parent": "Visual Arts",
+   "amount": 12.5
+ },
+ {
+   "name": "Gaming Service Worke",
+   "parent": "Recreation",
+   "amount": 12.5
+ },
+ {
+   "name": "Foundry Mold and Cor",
+   "parent": "Production",
+   "amount": 12.5
+ },
+ {
+   "name": "Curators",
+   "parent": "Professional Support",
+   "amount": 12.4
+ },
+ {
+   "name": "Bicycle Repairers",
+   "parent": "Facilities",
+   "amount": 12.4
+ },
+ {
+   "name": "Foresters",
+   "parent": "Natural Resources",
+   "amount": 12.3
+ },
+ {
+   "name": "Fire Inspectors and ",
+   "parent": "Emergency Svcs",
+   "amount": 12.3
+ },
+ {
+   "name": "Continuous Mining Ma",
+   "parent": "Construction",
+   "amount": 12.3
+ },
+ {
+   "name": "Drilling and Boring ",
+   "parent": "Production",
+   "amount": 12.3
+ },
+ {
+   "name": "Aerospace Engineerin",
+   "parent": "Process Dvlpmt",
+   "amount": 12.1
+ },
+ {
+   "name": "Slot Supervisors",
+   "parent": "Recreation",
+   "amount": 12.1
+ },
+ {
+   "name": "Electronic Equipment",
+   "parent": "Facilities",
+   "amount": 12.1
+ },
+ {
+   "name": "Woodworkers, All Oth",
+   "parent": "Production",
+   "amount": 12.1
+ },
+ {
+   "name": "Plant and System Ope",
+   "parent": "Production",
+   "amount": 12.1
+ },
+ {
+   "name": "Pump Operators, Exce",
+   "parent": "Transport Ops",
+   "amount": 11.9
+ },
+ {
+   "name": "Museum Technicians a",
+   "parent": "Professional Support",
+   "amount": 11.8
+ },
+ {
+   "name": "Athletes and Sports ",
+   "parent": "Recreation",
+   "amount": 11.8
+ },
+ {
+   "name": "Statistical Assistan",
+   "parent": "CHECK",
+   "amount": 11.8
+ },
+ {
+   "name": "Gaming and Sports Bo",
+   "parent": "Recreation",
+   "amount": 11.7
+ },
+ {
+   "name": "Agricultural Workers",
+   "parent": "Plants",
+   "amount": 11.6
+ },
+ {
+   "name": "Power Distributors a",
+   "parent": "Production",
+   "amount": 11.6
+ },
+ {
+   "name": "Area, Ethnic, and Cu",
+   "parent": "Teaching",
+   "amount": 11.5
+ },
+ {
+   "name": "Wellhead Pumpers",
+   "parent": "Transport Ops",
+   "amount": 11.5
+ },
+ {
+   "name": "Public Address Syste",
+   "parent": "Performing Arts",
+   "amount": 11.4
+ },
+ {
+   "name": "Audio-Visual and Mul",
+   "parent": "Professional Support",
+   "amount": 11.3
+ },
+ {
+   "name": "Solar Photovoltaic I",
+   "parent": "Construction",
+   "amount": 11.3
+ },
+ {
+   "name": "Textile Bleaching an",
+   "parent": "Production",
+   "amount": 11.3
+ },
+ {
+   "name": "Derrick Operators, O",
+   "parent": "Construction",
+   "amount": 11.1
+ },
+ {
+   "name": "Podiatrists",
+   "parent": "Therapeutic",
+   "amount": 11
+ },
+ {
+   "name": "Shoe and Leather Wor",
+   "parent": "Production",
+   "amount": 11
+ },
+ {
+   "name": "Helpers--Painters, P",
+   "parent": "Construction",
+   "amount": 10.9
+ },
+ {
+   "name": "Respiratory Therapy ",
+   "parent": "Therapeutic",
+   "amount": 10.8
+ },
+ {
+   "name": "Tank Car, Truck, and",
+   "parent": "Transport Ops",
+   "amount": 10.8
+ },
+ {
+   "name": "Gaming Surveillance ",
+   "parent": "Security",
+   "amount": 10.7
+ },
+ {
+   "name": "Etchers and Engraver",
+   "parent": "Production",
+   "amount": 10.6
+ },
+ {
+   "name": "Atmospheric and Spac",
+   "parent": "Science",
+   "amount": 10.4
+ },
+ {
+   "name": "Farm and Home Manage",
+   "parent": "Teaching",
+   "amount": 10.4
+ },
+ {
+   "name": "Helpers--Roofers",
+   "parent": "Construction",
+   "amount": 10.2
+ },
+ {
+   "name": "Emergency Management",
+   "parent": "Public Mgmt",
+   "amount": 10.1
+ },
+ {
+   "name": "Ship Engineers",
+   "parent": "Transport Ops",
+   "amount": 10.1
+ },
+ {
+   "name": "Signal and Track Swi",
+   "parent": "Facilities",
+   "amount": 10
+ },
+ {
+   "name": "Architecture Teacher",
+   "parent": "Teaching",
+   "amount": 9.5
+ },
+ {
+   "name": "Tool Grinders, Filer",
+   "parent": "Production",
+   "amount": 9.5
+ },
+ {
+   "name": "Parking Enforcement ",
+   "parent": "Law Enforcement",
+   "amount": 9.4
+ },
+ {
+   "name": "Layout Workers, Meta",
+   "parent": "Production",
+   "amount": 9.2
+ },
+ {
+   "name": "Telephone Operators",
+   "parent": "Admin Support",
+   "amount": 9.1
+ },
+ {
+   "name": "Designers, All Other",
+   "parent": "Visual Arts",
+   "amount": 9
+ },
+ {
+   "name": "Animal Breeders",
+   "parent": "Animal Systems",
+   "amount": 9
+ },
+ {
+   "name": "Life Scientists, All",
+   "parent": "Science",
+   "amount": 8.9
+ },
+ {
+   "name": "Airfield Operations ",
+   "parent": "CHECK",
+   "amount": 8.9
+ },
+ {
+   "name": "Cooling and Freezing",
+   "parent": "Production",
+   "amount": 8.7
+ },
+ {
+   "name": "Pourers and Casters,",
+   "parent": "Production",
+   "amount": 8.4
+ },
+ {
+   "name": "Musical Instrument R",
+   "parent": "Repair Installation",
+   "amount": 8.3
+ },
+ {
+   "name": "Marine Engineers and",
+   "parent": "Engineering",
+   "amount": 8.2
+ },
+ {
+   "name": "Materials Scientists",
+   "parent": "Science",
+   "amount": 7.9
+ },
+ {
+   "name": "Arbitrators, Mediato",
+   "parent": "Legal",
+   "amount": 7.8
+ },
+ {
+   "name": "Orthotists and Prost",
+   "parent": "Therapeutic",
+   "amount": 7.8
+ },
+ {
+   "name": "Anthropologists and ",
+   "parent": "Science",
+   "amount": 7.6
+ },
+ {
+   "name": "Aircraft Cargo Handl",
+   "parent": "Transport Ops",
+   "amount": 7.6
+ },
+ {
+   "name": "Occupational Therapy",
+   "parent": "Therapeutic",
+   "amount": 7.5
+ },
+ {
+   "name": "Fallers",
+   "parent": "Natural Resources",
+   "amount": 7.5
+ },
+ {
+   "name": "Mining and Geologica",
+   "parent": "Engineering",
+   "amount": 7.3
+ },
+ {
+   "name": "Political Scientists",
+   "parent": "Science",
+   "amount": 7.3
+ },
+ {
+   "name": "Floor Sanders and Fi",
+   "parent": "Construction",
+   "amount": 7.3
+ },
+ {
+   "name": "Correspondence Clerk",
+   "parent": "Admin Support",
+   "amount": 7.2
+ },
+ {
+   "name": "Anthropology and Arc",
+   "parent": "Teaching",
+   "amount": 7.1
+ },
+ {
+   "name": "Fish and Game Warden",
+   "parent": "Law Enforcement",
+   "amount": 7
+ },
+ {
+   "name": "Nuclear Power Reacto",
+   "parent": "Production",
+   "amount": 7
+ },
+ {
+   "name": "Nuclear Technicians",
+   "parent": "Process Dvlpmt",
+   "amount": 6.9
+ },
+ {
+   "name": "Environmental Scienc",
+   "parent": "Teaching",
+   "amount": 6.9
+ },
+ {
+   "name": "Choreographers",
+   "parent": "Performing Arts",
+   "amount": 6.9
+ },
+ {
+   "name": "Archivists",
+   "parent": "Professional Support",
+   "amount": 6.8
+ },
+ {
+   "name": "Oral and Maxillofaci",
+   "parent": "Therapeutic",
+   "amount": 6.8
+ },
+ {
+   "name": "Hearing Aid Speciali",
+   "parent": "Therapeutic",
+   "amount": 6.8
+ },
+ {
+   "name": "Hydrologists",
+   "parent": "Science",
+   "amount": 6.7
+ },
+ {
+   "name": "Orthodontists",
+   "parent": "Therapeutic",
+   "amount": 6.6
+ },
+ {
+   "name": "Costume Attendants",
+   "parent": "Performing Arts",
+   "amount": 6.6
+ },
+ {
+   "name": "Traffic Technicians",
+   "parent": "CHECK",
+   "amount": 6.6
+ },
+ {
+   "name": "Nurse Midwives",
+   "parent": "Therapeutic",
+   "amount": 6.5
+ },
+ {
+   "name": "Dentists, All Other ",
+   "parent": "Therapeutic",
+   "amount": 6.4
+ },
+ {
+   "name": "Explosives Workers, ",
+   "parent": "Construction",
+   "amount": 6.3
+ },
+ {
+   "name": "Model Makers, Metal ",
+   "parent": "Production",
+   "amount": 6.3
+ },
+ {
+   "name": "Animal Scientists",
+   "parent": "Animal Systems",
+   "amount": 6.1
+ },
+ {
+   "name": "Epidemiologists",
+   "parent": "Diagnostics",
+   "amount": 6.1
+ },
+ {
+   "name": "Mine Cutting and Cha",
+   "parent": "Construction",
+   "amount": 6.1
+ },
+ {
+   "name": "Library Science Teac",
+   "parent": "Teaching",
+   "amount": 6
+ },
+ {
+   "name": "Motion Picture Proje",
+   "parent": "Recreation",
+   "amount": 5.8
+ },
+ {
+   "name": "Wind Turbine Service",
+   "parent": "Repair Installation",
+   "amount": 5.8
+ },
+ {
+   "name": "Broadcast News Analy",
+   "parent": "Journalism",
+   "amount": 5.7
+ },
+ {
+   "name": "Paperhangers",
+   "parent": "Construction",
+   "amount": 5.7
+ },
+ {
+   "name": "Fabric and Apparel P",
+   "parent": "Production",
+   "amount": 5.5
+ },
+ {
+   "name": "Geography Teachers, ",
+   "parent": "Teaching",
+   "amount": 5
+ },
+ {
+   "name": "Transit and Railroad",
+   "parent": "Law Enforcement",
+   "amount": 4.9
+ },
+ {
+   "name": "Makeup Artists, Thea",
+   "parent": "Performing Arts",
+   "amount": 4.8
+ },
+ {
+   "name": "Models",
+   "parent": "Merchandising",
+   "amount": 4.8
+ },
+ {
+   "name": "Rail Transportation ",
+   "parent": "Transport Ops",
+   "amount": 4.6
+ },
+ {
+   "name": "Gaming Managers",
+   "parent": "Recreation",
+   "amount": 4.5
+ },
+ {
+   "name": "Logging Workers, All",
+   "parent": "Natural Resources",
+   "amount": 4.5
+ },
+ {
+   "name": "Rail Yard Engineers,",
+   "parent": "Transport Ops",
+   "amount": 4.4
+ },
+ {
+   "name": "Manufactured Buildin",
+   "parent": "Construction",
+   "amount": 4.3
+ },
+ {
+   "name": "Log Graders and Scal",
+   "parent": "Natural Resources",
+   "amount": 4.2
+ },
+ {
+   "name": "Extraction Workers, ",
+   "parent": "Construction",
+   "amount": 4.2
+ },
+ {
+   "name": "Commercial Divers",
+   "parent": "Maintenance",
+   "amount": 4.1
+ },
+ {
+   "name": "Camera and Photograp",
+   "parent": "Repair Installation",
+   "amount": 4
+ },
+ {
+   "name": "Gas Compressor and G",
+   "parent": "Transport Ops",
+   "amount": 3.9
+ },
+ {
+   "name": "Embalmers",
+   "parent": "Personal Care",
+   "amount": 3.7
+ },
+ {
+   "name": "Pile-Driver Operator",
+   "parent": "Construction",
+   "amount": 3.7
+ },
+ {
+   "name": "Rock Splitters, Quar",
+   "parent": "Construction",
+   "amount": 3.7
+ },
+ {
+   "name": "Roof Bolters, Mining",
+   "parent": "Construction",
+   "amount": 3.7
+ },
+ {
+   "name": "Bridge and Lock Tend",
+   "parent": "Transport Ops",
+   "amount": 3.7
+ },
+ {
+   "name": "Travel Guides",
+   "parent": "Travel",
+   "amount": 3.6
+ },
+ {
+   "name": "Terrazzo Workers and",
+   "parent": "Construction",
+   "amount": 3.6
+ },
+ {
+   "name": "Shoe Machine Operato",
+   "parent": "Production",
+   "amount": 3.6
+ },
+ {
+   "name": "Motorboat Operators",
+   "parent": "Transport Ops",
+   "amount": 3.6
+ },
+ {
+   "name": "Sociologists",
+   "parent": "Science",
+   "amount": 3.5
+ },
+ {
+   "name": "Home Economics Teach",
+   "parent": "Teaching",
+   "amount": 3.5
+ },
+ {
+   "name": "Patternmakers, Metal",
+   "parent": "Production",
+   "amount": 3.4
+ },
+ {
+   "name": "Historians",
+   "parent": "Science",
+   "amount": 3.3
+ },
+ {
+   "name": "Mathematicians",
+   "parent": "Science",
+   "amount": 3.1
+ },
+ {
+   "name": "Genetic Counselors",
+   "parent": "Therapeutic",
+   "amount": 3.1
+ },
+ {
+   "name": "Farm Labor Contracto",
+   "parent": "Agribusiness",
+   "amount": 3
+ },
+ {
+   "name": "Hoist and Winch Oper",
+   "parent": "Construction",
+   "amount": 2.9
+ },
+ {
+   "name": "Agricultural Enginee",
+   "parent": "Systems",
+   "amount": 2.7
+ },
+ {
+   "name": "Loading Machine Oper",
+   "parent": "Construction",
+   "amount": 2.6
+ },
+ {
+   "name": "Communications Equip",
+   "parent": "Admin Support",
+   "amount": 2.4
+ },
+ {
+   "name": "Mathematical Science",
+   "parent": "Science",
+   "amount": 2.2
+ },
+ {
+   "name": "Forestry and Conserv",
+   "parent": "Teaching",
+   "amount": 2.2
+ },
+ {
+   "name": "Mining Machine Opera",
+   "parent": "Construction",
+   "amount": 2.2
+ },
+ {
+   "name": "Segmental Pavers",
+   "parent": "Construction",
+   "amount": 2.1
+ },
+ {
+   "name": "Astronomers",
+   "parent": "Science",
+   "amount": 2
+ },
+ {
+   "name": "Model Makers, Wood",
+   "parent": "Production",
+   "amount": 1.9
+ },
+ {
+   "name": "Watch Repairers",
+   "parent": "Repair Installation",
+   "amount": 1.8
+ },
+ {
+   "name": "Patternmakers, Wood",
+   "parent": "Production",
+   "amount": 1.8
+ },
+ {
+   "name": "Dredge Operators",
+   "parent": "Construction",
+   "amount": 1.8
+ },
+ {
+   "name": "Industrial-Organizat",
+   "parent": "Counseling",
+   "amount": 1.7
+ },
+ {
+   "name": "Forest Fire Inspecto",
+   "parent": "Emergency Svcs",
+   "amount": 1.7
+ },
+ {
+   "name": "Refractory Materials",
+   "parent": "Maintenance",
+   "amount": 1.6
+ },
+ {
+   "name": "Geographers",
+   "parent": "Science",
+   "amount": 1.5
+ },
+ {
+   "name": "Mine Shuttle Car Ope",
+   "parent": "Transport Ops",
+   "amount": 1.5
+ },
+ {
+   "name": "Locomotive Firers",
+   "parent": "Transport Ops",
+   "amount": 1.2
+ },
+ {
+   "name": "Radio Operators",
+   "parent": "Journalism",
+   "amount": 0.9
+ },
+ {
+   "name": "Prosthodontists",
+   "parent": "Therapeutic",
+   "amount": 0.9
+ },
+ {
+   "name": "Timing Device Assemb",
+   "parent": "Production",
+   "amount": 0.8
+ },
+ {
+   "name": "Fabric Menders, Exce",
+   "parent": "Repair Installation",
+   "amount": 0.7
+ },
+ {
+   "name": "Mathematical Technic",
+   "parent": "Science",
+   "amount": 0.6
+ },
+ {
+   "name": "Sales",
+   "parent": "Marketing",
+   "amount": null
+ },
+ {
+   "name": "Restaurants",
+   "parent": "Hospitality",
+   "amount": null
+ },
+ {
+   "name": "Admin Support",
+   "parent": "Business Mgmt",
+   "amount": null
+ },
+ {
+   "name": "Therapeutic",
+   "parent": "Health Science",
+   "amount": null
+ },
+ {
+   "name": "Transport Ops",
+   "parent": "Logistics",
+   "amount": null
+ },
+ {
+   "name": "Lodging",
+   "parent": "Hospitality",
+   "amount": null
+ },
+ {
+   "name": "General Mgmt",
+   "parent": "Business Mgmt",
+   "amount": null
+ },
+ {
+   "name": "Personal Care",
+   "parent": "Human Svcs",
+   "amount": null
+ },
+ {
+   "name": "Repair Installation",
+   "parent": "Manufacturing",
+   "amount": null
+ },
+ {
+   "name": "Teaching",
+   "parent": "Education",
+   "amount": null
+ },
+ {
+   "name": "Accounting",
+   "parent": "Finance",
+   "amount": null
+ },
+ {
+   "name": "Construction",
+   "parent": "Architecture",
+   "amount": null
+ },
+ {
+   "name": "Children Svcs",
+   "parent": "Human Svcs",
+   "amount": null
+ },
+ {
+   "name": "Maintenance",
+   "parent": "Architecture",
+   "amount": null
+ },
+ {
+   "name": "Production",
+   "parent": "Manufacturing",
+   "amount": null
+ },
+ {
+   "name": "Security",
+   "parent": "Law",
+   "amount": null
+ },
+ {
+   "name": "Agribusiness",
+   "parent": "Agriculture",
+   "amount": null
+ },
+ {
+   "name": "Ops Mgmt",
+   "parent": "Business Mgmt",
+   "amount": null
+ },
+ {
+   "name": "Programming",
+   "parent": "Technology",
+   "amount": null
+ },
+ {
+   "name": "Legal",
+   "parent": "Law",
+   "amount": null
+ },
+ {
+   "name": "Facilities",
+   "parent": "Logistics",
+   "amount": null
+ },
+ {
+   "name": "Law Enforcement",
+   "parent": "Law",
+   "amount": null
+ },
+ {
+   "name": "Info Support",
+   "parent": "Technology",
+   "amount": null
+ },
+ {
+   "name": "Research",
+   "parent": "Marketing",
+   "amount": null
+ },
+ {
+   "name": "Business Finance",
+   "parent": "Finance",
+   "amount": null
+ },
+ {
+   "name": "Health Informatics",
+   "parent": "Health Science",
+   "amount": null
+ },
+ {
+   "name": "HR Mgmt",
+   "parent": "Business Mgmt",
+   "amount": null
+ },
+ {
+   "name": "QA",
+   "parent": "Manufacturing",
+   "amount": null
+ },
+ {
+   "name": "Plants",
+   "parent": "Agriculture",
+   "amount": null
+ },
+ {
+   "name": "Banking",
+   "parent": "Finance",
+   "amount": null
+ },
+ {
+   "name": "Insurance",
+   "parent": "Finance",
+   "amount": null
+ },
+ {
+   "name": "Sales and Service",
+   "parent": "Logistics",
+   "amount": null
+ },
+ {
+   "name": "Corrections",
+   "parent": "Law",
+   "amount": null
+ },
+ {
+   "name": "Networks",
+   "parent": "Technology",
+   "amount": null
+ },
+ {
+   "name": "Recreation",
+   "parent": "Hospitality",
+   "amount": null
+ },
+ {
+   "name": "Family Svcs",
+   "parent": "Human Svcs",
+   "amount": null
+ },
+ {
+   "name": "Marketing Mgmt",
+   "parent": "Marketing",
+   "amount": null
+ },
+ {
+   "name": "Securities",
+   "parent": "Finance",
+   "amount": null
+ },
+ {
+   "name": "Business Info Mgmt",
+   "parent": "Business Mgmt",
+   "amount": null
+ },
+ {
+   "name": "Support",
+   "parent": "Health Science",
+   "amount": null
+ },
+ {
+   "name": "Emergency Svcs",
+   "parent": "Law",
+   "amount": null
+ },
+ {
+   "name": "Process Dvlpmt",
+   "parent": "Manufacturing",
+   "amount": null
+ },
+ {
+   "name": "Design",
+   "parent": "Architecture",
+   "amount": null
+ },
+ {
+   "name": "Professional Support",
+   "parent": "Education",
+   "amount": null
+ },
+ {
+   "name": "Engineering",
+   "parent": "Science Tech Eng Math",
+   "amount": null
+ },
+ {
+   "name": "Governance",
+   "parent": "Government",
+   "amount": null
+ },
+ {
+   "name": "Animal Systems",
+   "parent": "Agriculture",
+   "amount": null
+ },
+ {
+   "name": "Visual Arts",
+   "parent": "Arts",
+   "amount": null
+ },
+ {
+   "name": "Comms",
+   "parent": "Marketing",
+   "amount": null
+ },
+ {
+   "name": "Administration",
+   "parent": "Education",
+   "amount": null
+ },
+ {
+   "name": "Telecomm",
+   "parent": "Arts",
+   "amount": null
+ },
+ {
+   "name": "Diagnostics",
+   "parent": "Health Science",
+   "amount": null
+ },
+ {
+   "name": "Planning Mgmt",
+   "parent": "Logistics",
+   "amount": null
+ },
+ {
+   "name": "Printing",
+   "parent": "Arts",
+   "amount": null
+ },
+ {
+   "name": "Performing Arts",
+   "parent": "Arts",
+   "amount": null
+ },
+ {
+   "name": "Web Comms",
+   "parent": "Technology",
+   "amount": null
+ },
+ {
+   "name": "Counseling",
+   "parent": "Human Svcs",
+   "amount": null
+ },
+ {
+   "name": "Travel",
+   "parent": "Hospitality",
+   "amount": null
+ },
+ {
+   "name": "Journalism",
+   "parent": "Arts",
+   "amount": null
+ },
+ {
+   "name": "Public Mgmt",
+   "parent": "Government",
+   "amount": null
+ },
+ {
+   "name": "Merchandising",
+   "parent": "Marketing",
+   "amount": null
+ },
+ {
+   "name": "Enviro Svcs",
+   "parent": "Agriculture",
+   "amount": null
+ },
+ {
+   "name": "Biotech",
+   "parent": "Health Science",
+   "amount": null
+ },
+ {
+   "name": "Regulation",
+   "parent": "Government",
+   "amount": null
+ },
+ {
+   "name": "Science",
+   "parent": "Science Tech Eng Math",
+   "amount": null
+ },
+ {
+   "name": "Taxation",
+   "parent": "Government",
+   "amount": null
+ },
+ {
+   "name": "Systems",
+   "parent": "Agriculture",
+   "amount": null
+ },
+ {
+   "name": "Natural Resources",
+   "parent": "Agriculture",
+   "amount": null
+ },
+ {
+   "name": "Food Products",
+   "parent": "Agriculture",
+   "amount": null
+ },
+ {
+   "name": "National Security",
+   "parent": "Government",
+   "amount": null
+ },
+ {
+   "name": "Consumer Svcs",
+   "parent": "Human Svcs",
+   "amount": null
+ },
+ {
+   "name": "Planning",
+   "parent": "Government",
+   "amount": null
+ },
+ {
+   "name": "Transport Mgmt",
+   "parent": "Logistics",
+   "amount": null
+ },
+ {
+   "name": "Marketing",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Hospitality",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Business Mgmt",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Health Science",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Logistics",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Human Svcs",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Manufacturing",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Education",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Finance",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Architecture",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Law",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Agriculture",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Technology",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Science Tech Eng Math",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Government",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "Arts",
+   "parent": "World of Jobs",
+   "amount": null
+ },
+ {
+   "name": "World of Jobs",
+   "parent": "",
+   "amount": null
+ }
+]
